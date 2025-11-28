@@ -1,0 +1,147 @@
+.post-detail {
+    display: flex;
+    flex-direction: column;
+}
+
+.post-header {
+    position: relative;
+    height: 60vh;
+}
+
+.post-banner {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.post-title-overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background: linear-gradient(transparent, rgba(0, 0, 0, 0.8));
+    color: var(--white);
+    padding: 40px 20px;
+    text-align: center;
+}
+
+.post-title-overlay h1 {
+    font-size: 3rem;
+    margin-bottom: 10px;
+}
+
+.post-meta-header {
+    font-size: 1.2rem;
+    font-weight: 500;
+    opacity: 0.9;
+}
+
+.post-content-container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 60px 20px;
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    gap: 60px;
+    width: 100%;
+}
+
+.post-main-content p {
+    font-size: 1.15rem;
+    line-height: 1.8;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.tags-card {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.tags-card h3 {
+    margin-bottom: 15px;
+    color: var(--primary-color);
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 10px;
+}
+
+.sidebar-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+
+.back-button {
+    display: block;
+    text-align: center;
+    background-color: var(--primary-color);
+    color: var(--white);
+    padding: 12px;
+    border-radius: 5px;
+    font-weight: 500;
+    transition: background-color 0.3s;
+}
+
+.back-button:hover {
+    background-color: #34495e;
+}
+
+.post-not-found {
+    text-align: center;
+    padding: 100px 20px;
+}
+
+.post-gallery {
+    margin-top: 60px;
+    padding-top: 40px;
+    border-top: 2px solid #eee;
+}
+
+.post-gallery h2 {
+    font-size: 2rem;
+    color: var(--primary-color);
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.gallery-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 20px;
+    margin-bottom: 40px;
+}
+
+.gallery-image {
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s, box-shadow 0.3s;
+    cursor: pointer;
+}
+
+.gallery-image:hover {
+    transform: scale(1.05);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+}
+
+@media (max-width: 768px) {
+    .post-content-container {
+        grid-template-columns: 1fr;
+    }
+
+    .post-header {
+        height: 40vh;
+    }
+
+    .post-title-overlay h1 {
+        font-size: 2rem;
+    }
+
+    .gallery-grid {
+        grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    }
+}
