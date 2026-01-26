@@ -1,5 +1,8 @@
+import React from 'react';
 import { useParams, Link } from 'react-router-dom';
+import ReactMarkdown from 'react-markdown';
 import { posts } from '../data/posts';
+import ImageGallery from '../components/ImageGallery';
 import './PostDetail.css';
 
 const PostDetail = () => {
@@ -31,23 +34,37 @@ const PostDetail = () => {
 
             <div className="post-content-container">
                 <div className="post-main-content">
-                    {post.content.split('\n').map((paragraph, index) => (
-                        <p key={index}>{paragraph}</p>
-                    ))}
+                    <div className="markdown-content">
+                        <ReactMarkdown
+                            components={{
+                                p: ({ children }) => {
+                                    // Check if children consists only of images/whitespace
+                                    const hasOnlyImages = React.Children.toArray(children).every(
+                                        child => (child as any)?.type === 'img' || (typeof child === 'string' && !child.trim())
+                                    );
+                                    return (
+                                        <p className={hasOnlyImages ? 'image-group-para' : ''}>
+                                            {children}
+                                        </p>
+                                    );
+                                },
+                                img: ({ node, ...props }) => (
+                                    <img
+                                        {...props}
+                                        className="markdown-thumbnail"
+                                        loading="lazy"
+                                    />
+                                )
+                            }}
+                        >
+                            {post.content}
+                        </ReactMarkdown>
+                    </div>
 
                     {post.gallery && post.gallery.length > 0 && (
                         <div className="post-gallery">
                             <h2>Photo Gallery</h2>
-                            <div className="gallery-grid">
-                                {post.gallery.map((imageUrl, index) => (
-                                    <img
-                                        key={index}
-                                        src={imageUrl}
-                                        alt={`${post.title} - Photo ${index + 1}`}
-                                        className="gallery-image"
-                                    />
-                                ))}
-                            </div>
+                            <ImageGallery images={post.gallery} />
                         </div>
                     )}
                 </div>
