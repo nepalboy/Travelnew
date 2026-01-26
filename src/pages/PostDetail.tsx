@@ -67,7 +67,7 @@ const PostDetail = () => {
                     {post.gallery && post.gallery.length > 0 && (
                         <div className="post-gallery">
                             <h2>Photo Gallery</h2>
-                            <ImageGallery images={post.gallery} />
+                            <ImageGallery items={post.gallery} />
                         </div>
                     )}
                 </div>

@@ -1,3 +1,11 @@
+export interface GalleryItem {
+    url: string;
+    type: 'image' | 'video';
+    caption?: string;
+    location?: string;
+    date?: string;
+}
+
 export interface Post {
     id: string;
     title: string;
@@ -6,7 +14,7 @@ export interface Post {
     image: string;
     tags: string[];
     location: string;
-    gallery?: string[];
+    gallery?: (string | GalleryItem)[];
 }
 
 export const posts: Post[] = [
@@ -106,52 +114,56 @@ We descended the Normal Route to Plaza de Mulas Base Camp for a well-earned show
         tags: ["Aconcagua", "Andes", "Expedition", "Trekking"],
         location: 'Aconcagua, Argentina',
         gallery: [
-            '/Travelnew/images/journal/journal_103155bb06ef8f0be66db11add038c6a.jpeg',
-            '/Travelnew/images/journal/journal_10f7b9698a8a469a3aaf959be32d9da5.jpeg',
-            '/Travelnew/images/journal/journal_1774eef715b67cf401f2d59b25109280.jpeg',
-            '/Travelnew/images/journal/journal_1ea9ee2fd1fe5a47aee212fed8301d0b.jpeg',
-            '/Travelnew/images/journal/journal_218456cddb4390389cfd75cb2dd9c567.jpeg',
-            '/Travelnew/images/journal/journal_2309e784bf92d8c42e9ebdf9d49f0565.jpeg',
-            '/Travelnew/images/journal/journal_2893e3b080bd9ecdf70af1b55d6bad15.jpeg',
-            '/Travelnew/images/journal/journal_2a2ebd88be0400696f125c3fbc97dbf0.jpeg',
-            '/Travelnew/images/journal/journal_2e8f7bde477ab403b1d20d9cb586c46c.jpeg',
-            '/Travelnew/images/journal/journal_380bf46d246383d5afad7faed29638ae.jpeg',
-            '/Travelnew/images/journal/journal_395375bb2a91a5cf0e14de387882083c.jpeg',
-            '/Travelnew/images/journal/journal_3a50b6fa6f1a5295c8f805576d83b371.jpeg',
-            '/Travelnew/images/journal/journal_3d400931c2b005b707a2c5dc4f236968.jpeg',
-            '/Travelnew/images/journal/journal_3f146fbb363fa3c7b80c8d776ec41bb7.jpeg',
-            '/Travelnew/images/journal/journal_4041784bb75344ab221f3b79925d40ef.jpeg',
-            '/Travelnew/images/journal/journal_4357b4e586ceb205a02e0f0fd2693bf2.jpeg',
-            '/Travelnew/images/journal/journal_44315d3d472b41cf481ed204f74d1d4e.jpeg',
-            '/Travelnew/images/journal/journal_463f6906d5bbfb4b15e9100f59058eaf.jpeg',
-            '/Travelnew/images/journal/journal_47f107d9df505ae28ae68ca2659848ba.jpeg',
-            '/Travelnew/images/journal/journal_4d679ab1b005b2dabe65a57aa0f1e761.jpeg',
-            '/Travelnew/images/journal/journal_4dd489445fe3225631ecb79e2beed961.jpeg',
-            '/Travelnew/images/journal/journal_52db77b2148c14e855f2246b33eec686.jpeg',
-            '/Travelnew/images/journal/journal_5be8ce507305fd1d72303231eaf62e9e.jpeg',
-            '/Travelnew/images/journal/journal_6517a3c0eed7bbb1555363a2e9a8faad.jpeg',
-            '/Travelnew/images/journal/journal_6cfee67b4a0d74683f47f73ede306786.jpeg',
-            '/Travelnew/images/journal/journal_73cef4bcff430e2d49a4b0d67a14cd80.jpeg',
-            '/Travelnew/images/journal/journal_760a2d883e768e2c87cb0f4c0f34c775.jpeg',
-            '/Travelnew/images/journal/journal_7cdac55b07f2313d328c126a601faa21.jpeg',
-            '/Travelnew/images/journal/journal_7fef9ae6a143aa64874441f1b8de45c0.jpeg',
-            '/Travelnew/images/journal/journal_87b84c8074a0e89465efc51bb5f1b86c.jpeg',
-            '/Travelnew/images/journal/journal_8c91bab98ecb0d8f4c9705541cfb608c.jpeg',
-            '/Travelnew/images/journal/journal_8d378263f43f03d98725f3d61d064c65.jpeg',
-            '/Travelnew/images/journal/journal_989bdc5eb0299088495bae02e0ec8993.jpeg',
-            '/Travelnew/images/journal/journal_9c511c23388b069472a93497cbf8f0c8.jpeg',
-            '/Travelnew/images/journal/journal_9e0473ef7266a259efd1f99db7cbfb7a.jpeg',
-            '/Travelnew/images/journal/journal_a6f85a75e03d6b72a442cafc4da435b3.jpeg',
-            '/Travelnew/images/journal/journal_ac997840739bb77406e8a2d79030f4bb.jpeg',
-            '/Travelnew/images/journal/journal_affbccc7fad58fb5d75a13fd64fbc043.jpeg',
-            '/Travelnew/images/journal/journal_b4a16f161db5f93f7fc9a35708c2b1d2.jpeg',
-            '/Travelnew/images/journal/journal_bced215e7490ed1d9171c068bd69bec2.jpeg',
-            '/Travelnew/images/journal/journal_be42b0522586ecee49cf9dc621b028c7.jpeg',
-            '/Travelnew/images/journal/journal_c31be75031e1e2865a942cd729742da9.jpeg',
-            '/Travelnew/images/journal/journal_d2bdedd9f2a7b6a79adab90e9ec72cb7.jpeg',
-            '/Travelnew/images/journal/journal_db1476ab75e1e0d9290eb4d5deefdb92.jpeg',
-            '/Travelnew/images/journal/journal_e4aba7f0ea2e8345a117152abb94d2bc.jpeg',
-            '/Travelnew/images/journal/journal_ff517c9f932e5ec52c4d50a57b6946e6.jpeg'
+            { url: "/Travelnew/images/gallery/gallery_04308252_5157_4ee8_adb2_6f9ceb8a3c01.jpg", type: "image", location: "Aconcagua Expedition", caption: "Expedition Readiness - Aconcagua" },
+            { url: "/Travelnew/images/gallery/gallery_0571dc5f_b78a_4534_942b_5af2731bf331.jpg", type: "image", location: "Aconcagua Expedition", caption: "Stunning Andes Landscape" },
+            { url: "/Travelnew/images/gallery/gallery_05e14e00_50aa_49cd_9005_3d7c333dc5a2.jpg", type: "image", location: "Aconcagua Expedition", caption: "Vivid Mountain Colors" },
+            { url: "/Travelnew/images/gallery/gallery_07af79ca_3784_401a_8bde_9ed8a8fff009.jpg", type: "image", location: "Aconcagua Expedition", caption: "High Altitude Wilderness" },
+            { url: "/Travelnew/images/gallery/gallery_0a6dc9a6_425b_4ac1_aa38_47d55283fcf9.mp4", type: "video", location: "Aconcagua Expedition", caption: "Mountain Atmosphere" },
+            { url: "/Travelnew/images/gallery/gallery_0db21334_a1e1_4d0b_b348_af1ef2b3d7d0.jpg", type: "image", location: "Aconcagua Expedition", caption: "Trek Details" },
+            { url: "/Travelnew/images/gallery/gallery_175ebdc5_de4a_493f_9336_99cf770499b6.jpg", type: "image", location: "Aconcagua Expedition", caption: "Andean Sky" },
+            { url: "/Travelnew/images/gallery/gallery_1767296744549512.jpg", type: "image", location: "Aconcagua Expedition", caption: "On the Trail" },
+            { url: "/Travelnew/images/gallery/gallery_1768431597214184.jpg", type: "image", location: "Aconcagua Expedition", caption: "Expedition Moment" },
+            { url: "/Travelnew/images/gallery/gallery_1768433774367452.jpg", type: "image", location: "Aconcagua Expedition", caption: "Trail Perspective" },
+
+            { url: "/Travelnew/images/gallery/gallery_1a755b66_73d2_4c20_b8d0_6468e47d06d0.mp4", type: "video", location: "Aconcagua Expedition", caption: "Moving Through the Andes" },
+            { url: "/Travelnew/images/gallery/gallery_1f23deb7_21fb_4e47_ba79_7084f6b4c125.jpg", type: "image", location: "Aconcagua Expedition", caption: "High Elevation Serenity" },
+            { url: "/Travelnew/images/gallery/gallery_1f7b9edc_eb5f_496d_969b_7630bff4d1b8.jpg", type: "image", location: "Aconcagua Expedition", caption: "Mountain Textures" },
+            { url: "/Travelnew/images/gallery/gallery_238f4c1c_ef97_437f_ac35_cea335eb6a53.jpg", type: "image", location: "Aconcagua Expedition", caption: "Rugged Terrain" },
+            { url: "/Travelnew/images/gallery/gallery_269daef7_a4b7_4444_a18c_225154328ab7.jpg", type: "image", location: "Aconcagua Expedition", caption: "Expedition Details" },
+            { url: "/Travelnew/images/gallery/gallery_2987074b_3272_4209_a3e8_c7d27859084e.jpg", type: "image", location: "Aconcagua Expedition", caption: "Vast Horizons" },
+            { url: "/Travelnew/images/gallery/gallery_2ca0a796_6d88_4843_a64a_f3acf356fd0d.jpg", type: "image", location: "Aconcagua Expedition", caption: "Trail Side" },
+            { url: "/Travelnew/images/gallery/gallery_30c904b3_d394_4b0c_a899_adde6dd9a47d.jpg", type: "image", location: "Aconcagua Expedition", caption: "Camp Life" },
+            { url: "/Travelnew/images/gallery/gallery_3199d1e5_91c4_4cc5_ac31_0405029a7e5e.mp4", type: "video", location: "Aconcagua Expedition", caption: "Life at Altitude" },
+            { url: "/Travelnew/images/gallery/gallery_32bfe984_6bb4_483d_8d71_eaed04296870.jpg", type: "image", location: "Aconcagua Expedition", caption: "Summit Bound" },
+            { url: "/Travelnew/images/gallery/gallery_34c86146_9cb9_429d_a088_c5bebdd676c6.jpg", type: "image", location: "Aconcagua Expedition", caption: "Mountain Majesty" },
+            { url: "/Travelnew/images/gallery/gallery_40427dca_f9a4_42e9_9cd5_73bd62ededdf.jpg", type: "image", location: "Aconcagua Expedition", caption: "Ice and Rock" },
+            { url: "/Travelnew/images/gallery/gallery_40e64c8f_5539_4912_9c58_8ef2240f0e6b.jpg", type: "image", location: "Aconcagua Expedition", caption: "High Camp Perspective" },
+            { url: "/Travelnew/images/gallery/gallery_41b537a1_aa9f_4c3a_818b_ea0d19e50c19.jpg", type: "image", location: "Aconcagua Expedition", caption: "Trail Reflections" },
+            { url: "/Travelnew/images/gallery/gallery_41edddaa_05a8_4b23_a9ca_048ffa7395a6.jpg", type: "image", location: "Aconcagua Expedition", caption: "Morning Light" },
+            { url: "/Travelnew/images/gallery/gallery_48b2538f_991e_4991_821e_ef36ccb09f65.jpg", type: "image", location: "Aconcagua Expedition", caption: "Summit Slopes" },
+            { url: "/Travelnew/images/gallery/gallery_4fdfcf5e_18df_4385_9a72_74e0098af18a.mp4", type: "video", location: "Aconcagua Expedition", caption: "Summit Ambience" },
+            { url: "/Travelnew/images/gallery/gallery_51b001ed_9fdf_4f2e_b428_bdaa1a024f2f.jpg", type: "image", location: "Aconcagua Expedition", caption: "Extreme Weather" },
+            { url: "/Travelnew/images/gallery/gallery_545fa8d4_34ce_4de4_986f_26d7b018ca0e.jpg", type: "image", location: "Aconcagua Expedition", caption: "High Altitude Camp" },
+            { url: "/Travelnew/images/gallery/gallery_555c1cb2_cdb6_41ab_8985_8b38656bc25c.jpg", type: "image", location: "Aconcagua Expedition", caption: "Expedition Gear" },
+            { url: "/Travelnew/images/gallery/gallery_5fa08d68_a1a1_4b53_9fd8_5c8ded5d93a4.jpg", type: "image", location: "Aconcagua Expedition", caption: "White World" },
+            { url: "/Travelnew/images/gallery/gallery_6421197b_e574_4b4a_8328_c4779d540e73.jpg", type: "image", location: "Aconcagua Expedition", caption: "Andean Glaciers" },
+            { url: "/Travelnew/images/gallery/gallery_67ace38d_6c0e_422b_a435_fab5ae75788b.jpg", type: "image", location: "Aconcagua Expedition", caption: "Scaling the Stone Sentinel" },
+            { url: "/Travelnew/images/gallery/gallery_697f22dc_5576_4365_900f_f7de874a000c.jpg", type: "image", location: "Aconcagua Expedition", caption: "Ridge Views" },
+            { url: "/Travelnew/images/gallery/gallery_6ff33f3a_5d0d_45ae_8a25_2027b00f7b42.mp4", type: "video", location: "Aconcagua Expedition", caption: "Summit Push Memories" },
+            { url: "/Travelnew/images/gallery/gallery_71e01745_dd3c_4797_807f_6041531205e7.jpg", type: "image", location: "Aconcagua Expedition", caption: "Evening Glow" },
+            { url: "/Travelnew/images/gallery/gallery_7363ecdf_b550_4fd0_8c08_72bae4407262.jpg", type: "image", location: "Aconcagua Expedition", caption: "Expedition Persistence" },
+            { url: "/Travelnew/images/gallery/gallery_745c536d_c841_42b6_ac09_a4ac4e3d1def.jpg", type: "image", location: "Aconcagua Expedition", caption: "Trail Markings" },
+            { url: "/Travelnew/images/gallery/gallery_74a45683_d4f5_4270_9b3e_601545a5a7e7.jpg", type: "image", location: "Aconcagua Expedition", caption: "Base Camp Morning" },
+            { url: "/Travelnew/images/gallery/gallery_77aa915b_48c3_41e5_ac25_819305749c25.jpg", type: "image", location: "Aconcagua Expedition", caption: "High Sky" },
+            { url: "/Travelnew/images/gallery/gallery_80cf3288_8ecd_4fdf_85b4_f93b722752a1.jpg", type: "image", location: "Aconcagua Expedition", caption: "Climbers Path" },
+            { url: "/Travelnew/images/gallery/gallery_825f7e80_6b4f_4142_8c2c_a8d4a3d7dd6a.jpg", type: "image", location: "Aconcagua Expedition", caption: "The Canaleta" },
+            { url: "/Travelnew/images/gallery/gallery_886bdd65_adf4_45ce_adf9_2f05056314ba.mp4", type: "video", location: "Aconcagua Expedition", caption: "Mountain Spirits" },
+            { url: "/Travelnew/images/gallery/gallery_898aaa58_4896_400f_a561_afdcfd0e7344.jpg", type: "image", location: "Aconcagua Expedition", caption: "Return Journey" },
+            { url: "/Travelnew/images/gallery/gallery_8c48cf86_e56d_467a_a501_244f5150c694.jpg", type: "image", location: "Aconcagua Expedition", caption: "Farewell Aconcagua" },
+            { url: "/Travelnew/images/gallery/gallery_f4b32ac7_7b6d_49ff_b9e6_21a8c12be8b1.mp4", type: "video", location: "Aconcagua Expedition", caption: "Vacas Valley Wind" },
+            { url: "/Travelnew/images/gallery/gallery_img_4609.mov", type: "video", location: "Aconcagua Expedition", caption: "Base Camp 2 (Polar)" },
+            { url: "/Travelnew/images/gallery/gallery_img_4936.mov", type: "video", location: "Aconcagua Expedition", caption: "Cólera Camp Views" },
+            { url: "/Travelnew/images/gallery/gallery_img_4938.mov", type: "video", location: "Aconcagua Expedition", caption: "Summit Morning" }
         ]
     },
     {

@@ -2,12 +2,19 @@ import React, { useState, useEffect, useCallback } from 'react';
 import { X, ChevronLeft, ChevronRight, Maximize2 } from 'lucide-react';
 import './ImageGallery.css';
 
+import type { GalleryItem } from '../data/posts';
+import './ImageGallery.css';
+
 interface ImageGalleryProps {
-    images: string[];
+    items: (string | GalleryItem)[];
 }
 
-const ImageGallery: React.FC<ImageGalleryProps> = ({ images }) => {
+const ImageGallery: React.FC<ImageGalleryProps> = ({ items }) => {
     const [currentIndex, setCurrentIndex] = useState<number | null>(null);
+
+    const galleryItems: GalleryItem[] = items.map(item =>
+        typeof item === 'string' ? { url: item, type: 'image' } : item
+    );
 
     const openLightbox = (index: number) => {
         setCurrentIndex(index);
@@ -21,15 +28,15 @@ const ImageGallery: React.FC<ImageGalleryProps> = ({ images }) => {
 
     const showNext = useCallback(() => {
         if (currentIndex !== null) {
-            setCurrentIndex((prevIndex) => (prevIndex! + 1) % images.length);
+            setCurrentIndex((prevIndex) => (prevIndex! + 1) % galleryItems.length);
         }
-    }, [currentIndex, images.length]);
+    }, [currentIndex, galleryItems.length]);
 
     const showPrev = useCallback(() => {
         if (currentIndex !== null) {
-            setCurrentIndex((prevIndex) => (prevIndex! - 1 + images.length) % images.length);
+            setCurrentIndex((prevIndex) => (prevIndex! - 1 + galleryItems.length) % galleryItems.length);
         }
-    }, [currentIndex, images.length]);
+    }, [currentIndex, galleryItems.length]);
 
     useEffect(() => {
         const handleKeyDown = (e: KeyboardEvent) => {
@@ -43,14 +50,31 @@ const ImageGallery: React.FC<ImageGalleryProps> = ({ images }) => {
         return () => window.removeEventListener('keydown', handleKeyDown);
     }, [currentIndex, closeLightbox, showNext, showPrev]);
 
+    const renderMedia = (item: GalleryItem, className: string, isLightbox = false) => {
+        if (item.type === 'video') {
+            return (
+                <video
+                    src={item.url}
+                    className={className}
+                    controls={isLightbox}
+                    autoPlay={isLightbox}
+                    muted={!isLightbox}
+                    loop={!isLightbox}
+                    playsInline
+                />
+            );
+        }
+        return <img src={item.url} alt={item.caption || "Gallery"} className={className} />;
+    };
+
     return (
         <div className="image-gallery-container">
             <div className="gallery-grid">
-                {images.map((url, index) => (
+                {galleryItems.map((item, index) => (
                     <div key={index} className="gallery-thumbnail-wrapper" onClick={() => openLightbox(index)}>
-                        <img src={url} alt={`Gallery ${index + 1}`} className="gallery-thumbnail" />
+                        {renderMedia(item, "gallery-thumbnail")}
                         <div className="thumbnail-overlay">
-                            <Maximize2 size={24} color="white" />
+                            {item.type === 'video' ? <div className="video-icon">▶</div> : <Maximize2 size={24} color="white" />}
                         </div>
                     </div>
                 ))}
@@ -70,13 +94,17 @@ const ImageGallery: React.FC<ImageGalleryProps> = ({ images }) => {
                     </button>
 
                     <div className="lightbox-content" onClick={(e) => e.stopPropagation()}>
-                        <img
-                            src={images[currentIndex]}
-                            alt={`Full size ${currentIndex + 1}`}
-                            className="lightbox-image"
-                        />
-                        <div className="lightbox-counter">
-                            {currentIndex + 1} / {images.length}
+                        <div className="lightbox-media-container">
+                            {renderMedia(galleryItems[currentIndex], "lightbox-image", true)}
+                        </div>
+
+                        <div className="lightbox-info">
+                            {galleryItems[currentIndex].caption && (
+                                <p className="lightbox-caption">{galleryItems[currentIndex].caption}</p>
+                            )}
+                            <div className="lightbox-counter">
+                                {currentIndex + 1} / {galleryItems.length}
+                            </div>
                         </div>
                     </div>
 
