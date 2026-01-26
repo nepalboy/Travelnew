@@ -3,6 +3,7 @@ import { useParams, Link } from 'react-router-dom';
 import ReactMarkdown from 'react-markdown';
 import { posts } from '../data/posts';
 import ImageGallery from '../components/ImageGallery';
+import ItineraryMap from '../components/ItineraryMap';
 import './PostDetail.css';
 
 const PostDetail = () => {
@@ -17,6 +18,8 @@ const PostDetail = () => {
             </div>
         );
     }
+
+    const isAconcagua = id === 'aconcagua-expedition-andes';
 
     return (
         <div className="post-detail">
@@ -70,6 +73,8 @@ const PostDetail = () => {
                 </div>
 
                 <div className="post-sidebar">
+                    {isAconcagua && <ItineraryMap />}
+
                     <div className="tags-card">
                         <h3>Tags</h3>
                         <div className="sidebar-tags">

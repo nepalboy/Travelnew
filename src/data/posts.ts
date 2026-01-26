@@ -12,7 +12,7 @@ export interface Post {
 export const posts: Post[] = [
     {
         id: 'aconcagua-expedition-andes',
-        title: "Trip to Aconcagua.",
+        title: "Trip to Aconcagua [22,841 ft].",
         date: 'Dec 25, 2025 - Jan 17, 2026',
         content: `
 ### The Giants of the Earth: Himalayas vs. Andes
@@ -20,63 +20,63 @@ Mountain ranges are the world's most dramatic storytellers, each with a unique p
 
 In contrast, the **Andes** of South America—where **Aconcagua** reigns supreme—offer a different kind of majesty. Spanning the entire length of the continent, the Andes are the longest continental mountain range in the world. They feel older, more expansive, and rugged in a way that is hauntingly beautiful. While the Himalayas are defined by their sheer verticality, the Andes often present vast, high-altitude plateaus and a landscape that is arid and colorful, shifting from dusty ochres to brilliant snowy whites. Exploring the Andes is like stepping into a different chapter of Earth's history—one where the scale is just as grand, but the rhythm is entirely its own.
 
-Argentina is a land of dramatic contrasts, from the vibrant tango halls of Buenos Aires to the rugged, windswept wilderness of Patagonia. However, for a mountaineer, the ultimate pilgrimage leads to the Central Andes, home to **Mt. Aconcagua**. Standing at 6,962 meters (22,837 feet), it is the highest peak outside of Asia and a formidable member of the Seven Summits.
+Argentina is a land of dramatic contrasts, from the vibrant tango halls of Buenos Aires to the rugged, windswept wilderness of Patagonia. However, for a mountaineer, the ultimate pilgrimage leads to the Central Andes, home to **Mt. Aconcagua**. Standing at 6,962 meters (22,841 feet), it is the highest peak in the Western Hemisphere and the second highest of the Seven Summits.
 
-Our journey began in **Mendoza**, the undisputed wine capital of Argentina. Nestled in a high-altitude desert oasis, Mendoza is a city defined by its ingenious irrigation system—a network of open canals (acequias) that channel Andean meltwater to feed its lush, tree-lined avenues. Life here follows the rhythm of the mountains: a midday siesta to escape the heat, followed by late-night dinners where a glass of world-class Malbec is almost mandatory.
+Our journey began in **Mendoza [2,493 ft]**, the undisputed wine capital of Argentina. Nestled in a high-altitude desert oasis, Mendoza is a city defined by its ingenious irrigation system—a network of open canals (acequias) that channel Andean meltwater. Life here follows the rhythm of the mountains: a midday siesta to escape the heat, followed by late-night dinners where a glass of world-class Malbec is almost mandatory.
 
 ![Mendoza Streets](/Travelnew/images/journal/journal_218456cddb4390389cfd75cb2dd9c567.jpeg)
 ![Mendoza Trees](/Travelnew/images/journal/journal_4041784bb75344ab221f3b79925d40ef.jpeg)
 
-### The Challenge of the Stone Sentinel
-Don't let Aconcagua’s reputation as a "non-technical" climb fool you. The success rate hovers around only **30-40%**. The challenges are physiological and environmental: atmospheric pressure at the summit is 40% of that at sea level, and explorers must contend with the fierce **Viento Blanco** (White Wind), which can reach 100km/h. It is a grueling test of endurance, far more demanding than the trekking peaks like Kilimanjaro.
+### The Vacas Valley Challenge: Grit and Determination
+Climbing Aconcagua via the Vacas Valley is a serious undertaking that requires excellent physical conditioning and mental grit. While the route is non-technical, the extreme altitude (summit oxygen is only 40% of sea level) and the fierce **Viento Blanco** (White Wind) make for a low success rate of only **30-40%**. It is a grueling test of endurance, far more demanding than peaks like Kilimanjaro.
 
 ---
 
-### December 25, 2025 - The Long Journey South
-The expedition kicked off with a transit through Houston. A quick celebration at *The Annie* with some excellent red fish provided the final taste of civilization before the long flight to Santiago, Chile.
+### December 25-28 - Departure & Arrival in Mendoza [2,493 ft]
+The journey began with a transit through Houston and Santiago before finally arriving in Mendoza. We spent our first days in the city checking gear, securing permits ($730 cash!), and soaking in the lush greenery and massive old trees of the city.
 
 ![Dining in Houston](/Travelnew/images/journal/journal_1ea9ee2fd1fe5a47aee212fed8301d0b.jpeg)
-
----
-
-### December 26-28 - Base Camp Mendoza & Gear Prep
-Arriving in Mendoza, the sheer scale of the Andes immediately became apparent from the airplane window. The city felt like home, with pigeons reminding me of my childhood in Kathmandu. We spent these days at the Diplomatic Hotel for briefings and rigorous gear checks. A realization hit: I was missing a pair of medium gloves—a small but critical detail at -20°C.
-
 ![Andes View from Plane](/Travelnew/images/journal/journal_103155bb06ef8f0be66db11add038c6a.jpeg)
-![Gear Inspection](/Travelnew/images/journal/journal_3f146fbb363fa3c7b80c8d776ec41bb7.jpeg)
 
 ---
 
-### December 29-30 - Into the Wild: Los Penitentes to Pampa de las Leñas
-Moving into the mountains, the landscape transformed into a rugged, arid wilderness. We stayed in a high-school style dormitory in Los Penitentes (8,800 ft) before hitting the trail. The trek began along the rocky banks of a glacial river. I watched fascinated as mules—the yaks of the Andes—carried our expedition gear toward the higher camps.
+### December 29 - Mendoza to Los Penitentes [8,940 ft]
+We left the comfort of the hotel for the mountains. After a briefing and final permit checks, we drove toward Penitentes. We prepared our duffel bags for the mules—the high-altitude porters of the Andes—and spent the night in a dormitory, the last real beds we'd see for weeks.
+
+![Expedition Gear](/Travelnew/images/journal/journal_3f146fbb363fa3c7b80c8d776ec41bb7.jpeg)
+
+---
+
+### December 30 - Trek to Pampa de Leñas [9,186 ft]
+The expedition officially moved into Aconcagua Provincial Park. We trekked for about 6 hours (7.9 miles) along the Vacas river to our first camp, Pampa de Leñas. Setting up our own tents for the first time, we began the slow process of acclimatization.
 
 ![Base in Penitentes](/Travelnew/images/journal/journal_2e8f7bde477ab403b1d20d9cb586c46c.jpeg)
-![River Trail](/Travelnew/images/journal/journal_395375bb2a91a5cf0e14de387882083c.jpeg)
 ![Trail Paperwork](/Travelnew/images/journal/journal_2a2ebd88be0400696f125c3fbc97dbf0.jpeg)
 ![Wildflowers](/Travelnew/images/journal/journal_e4aba7f0ea2e8345a117152abb94d2bc.jpeg)
 
 ---
 
-### December 31 - A High Altitude New Year's Eve
-This was our longest trekking day—17km through a massive, stunning valley. We spotted Guanacos (wild relatives of the llama) and colorful Andean sparrows. As evening fell, the massive peak of Aconcagua finalmente appeared on the horizon, glowing in the dusk.
+### December 31 - The Walk to Casa de Piedra [10,662 ft]
+A beautiful but long hike followed the river deeper into the valley. This day offered our first dramatic view of Aconcagua's massive peak from the Vacas side. We spent New Year's Eve in the shadow of the stone sentinel, celebrating with a quiet dinner at 10,662 feet.
 
+![River Trail](/Travelnew/images/journal/journal_395375bb2a91a5cf0e14de387882083c.jpeg)
 ![Valley Slopes](/Travelnew/images/journal/journal_10f7b9698a8a469a3aaf959be32d9da5.jpeg)
-![The Big Valley](/Travelnew/images/journal/journal_2893e3b080bd9ecdf70af1b55d6bad15.jpeg)
 ![Aconcagua Reveal](/Travelnew/images/journal/journal_c31be75031e1e2865a942cd729742da9.jpeg)
 
 ---
 
-### January 1-5 - Life at Plaza Argentina Base Camp
-We rang in 2026 at Plaza Argentina, the heart of the mountain. These days were dedicated to acclimatization—a slow dance with the altitude. We managed logistics, watched the team organize loads, and rested by the small mountain streams that flow from the glacier's foot.
+### January 1-4 - Reaching Plaza Argentina Base Camp [13,780 ft]
+To reach Plaza Argentina, we had to cross a freezing cold glacial river—a sharp wake-up call for our feet! We settled into the base camp for four nights. These days were a mix of recovery, health checks with the Base Camp Doctor, and "load carries" to Camp 1 to help our bodies adjust to the thin air.
 
+![The Big Valley](/Travelnew/images/journal/journal_2893e3b080bd9ecdf70af1b55d6bad15.jpeg)
 ![Plaza Argentina](/Travelnew/images/journal/journal_3a50b6fa6f1a5295c8f805576d83b371.jpeg)
 ![Glacial Stream](/Travelnew/images/journal/journal_3d400931c2b005b707a2c5dc4f236968.jpeg)
 ![Ice Formations](/Travelnew/images/journal/journal_5be8ce507305fd1d72303231eaf62e9e.jpeg)
 
 ---
 
-### January 7-9 - Polar Camp 2 & Snowstorm Survival
-The weather turned. We arrived at Camp 2 amidst a heavy snowstorm that dumped two feet of fresh powder, plunging temperatures to -20°C. Navigating the camp became an expedition in itself. We used the downtime for crampon training—learning to run and even "dance" in the tiny metal teeth that provide safety on the ice.
+### January 5-9 - The High Camps: From Camp 1 to Camp 2 [18,044 ft]
+We moved higher to Camp 1 (16,240 ft) and then to Camp 2, known as Upper Guanacos (18,044 ft). The weather turned fierce, bringing a snowstorm that dumped two feet of powder. At -20°C, survival depends on gear and spirit. We used the downtime for intensive crampon training, learning to move safely on the fresh ice.
 
 ![Snowstorm Camp](/Travelnew/images/journal/journal_760a2d883e768e2c87cb0f4c0f34c775.jpeg)
 ![Andes Panorama](/Travelnew/images/journal/journal_8c91bab98ecb0d8f4c9705541cfb608c.jpeg)
@@ -85,8 +85,8 @@ The weather turned. We arrived at Camp 2 amidst a heavy snowstorm that dumped tw
 
 ---
 
-### January 11 - The Summit Push: Listening to the Mountain
-The summit attempt began at 3:00 AM. It was a surreal ascent, looking out over the entire Andean range under the stars. However, just 500 meters from the summit, the safety conditions deteriorated. The snow was too deep and the risks too high. Listening to the mountain, we turned back. While we didn't touch the top, the experience of being in that thin air was a summit of the spirit.
+### January 10-11 - Cólera Camp & The Summit Push [Up to 22,841 ft]
+We reached Camp 3, Cólera (19,685 ft), perched on the Normal Route. The summit push began at 3:00 AM under a surreal canopy of stars. We pushed through extreme cold and thin air, reaching the "Cave" before the final ascent through the Canaleta. However, safety is the priority. At just 500 meters from the top, poor conditions forced us to descend. The mountain had spoken.
 
 ![Summit Slopes](/Travelnew/images/journal/journal_380bf46d246383d5afad7faed29638ae.jpeg)
 ![Turning Back](/Travelnew/images/journal/journal_47f107d9df505ae28ae68ca2659848ba.jpeg)
@@ -95,8 +95,8 @@ The summit attempt began at 3:00 AM. It was a surreal ascent, looking out over t
 
 ---
 
-### January 12-17 - Journey Home: Gratitude and Unfinished Business
-The descent took us to Plaza de Mulas and finally back to the comfort of Mendoza. A celebratory dinner and a professional haircut marked the return to civilization. Departing via Santiago, I felt a deep sense of gratitude. Aconcagua is a formidable teacher. I’m leaving South America with "unfinished business" and a promise to return.
+### January 12-16 - Descent to Plaza de Mulas and Return [14,402 ft]
+We descended the Normal Route to Plaza de Mulas Base Camp for a well-earned shower and celebration. A final 25km hike through Horcones brought us back to civilization. Leaving Mendoza and South America, I felt immense gratitude. The summit remains for another day, but the journey was a triumph in itself.
 
 ![Farewell Mendoza](/Travelnew/images/journal/journal_463f6906d5bbfb4b15e9100f59058eaf.jpeg)
 ![Santiago Transit](/Travelnew/images/journal/journal_7cdac55b07f2313d328c126a601faa21.jpeg)
