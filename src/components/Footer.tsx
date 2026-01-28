@@ -2,13 +2,18 @@ import { useState, useEffect } from 'react';
 import './Footer.css';
 
 const Footer = () => {
-    const [viewCount, setViewCount] = useState<string | null>(null);
+    const [viewCount, setViewCount] = useState<number | null>(null);
 
     useEffect(() => {
-        fetch('https://hits.dwyl.com/nepalboy/travelnew.json')
+        // Using counterapi.dev which has permissive CORS
+        fetch('https://api.counterapi.dev/v1/nepalboy/travelnew/up')
             .then(res => res.json())
-            .then(data => setViewCount(data.message))
-            .catch(err => console.error('Error fetching view count:', err));
+            .then(data => setViewCount(data.count))
+            .catch(err => {
+                console.error('Error fetching view count:', err);
+                // Fallback to a static number or hidden if failed
+                setViewCount(0);
+            });
     }, []);
 
     return (
