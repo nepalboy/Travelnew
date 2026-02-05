@@ -24,6 +24,7 @@ const Footer = () => {
                     <span className="view-count">{viewCount || '...'}</span>
                 </div>
                 <p>&copy; {new Date().getFullYear()} Traversing With Time. All rights reserved.</p>
+                <p className="footer-updated">Last Updated: February 5, 2026</p>
             </div>
         </footer>
     );
