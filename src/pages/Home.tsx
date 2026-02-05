@@ -3,7 +3,7 @@ import { posts } from '../data/posts';
 import './Home.css';
 
 const Home = () => {
-    const recentPosts = posts.slice(0, 3);
+    const recentPosts = posts;
 
     return (
         <div className="home">

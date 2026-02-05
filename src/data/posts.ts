@@ -124,7 +124,6 @@ We descended the Normal Route to Plaza de Mulas Base Camp for a well-earned show
             { url: "/Travelnew/images/gallery/gallery_1767296744549512.jpg", type: "image", location: "Aconcagua Expedition", caption: "On the Trail" },
             { url: "/Travelnew/images/gallery/gallery_1768431597214184.jpg", type: "image", location: "Aconcagua Expedition", caption: "Expedition Moment" },
             { url: "/Travelnew/images/gallery/gallery_1768433774367452.jpg", type: "image", location: "Aconcagua Expedition", caption: "Trail Perspective" },
-
             { url: "/Travelnew/images/gallery/gallery_1a755b66_73d2_4c20_b8d0_6468e47d06d0.mp4", type: "video", location: "Aconcagua Expedition", caption: "Moving Through the Andes" },
             { url: "/Travelnew/images/gallery/gallery_1f23deb7_21fb_4e47_ba79_7084f6b4c125.jpg", type: "image", location: "Aconcagua Expedition", caption: "High Elevation Serenity" },
             { url: "/Travelnew/images/gallery/gallery_1f7b9edc_eb5f_496d_969b_7630bff4d1b8.jpg", type: "image", location: "Aconcagua Expedition", caption: "Mountain Textures" },
@@ -197,13 +196,52 @@ Today marks the beginning of our adventure...`,
         location: 'California, USA'
     },
     {
-        id: 'life-in-nanjing',
-        title: 'Life in Nanjing, China for a Month',
-        date: 'October 06, 2006',
-        content: `It was a beautiful evening in the month of June 2006, when I was nominated for a 10-month professional computing course in China...`,
-        image: 'https://photos1.blogger.com/blogger/4585/3941/200/IMGP0124.jpg',
-        tags: ['Travel', 'China', 'Culture'],
-        location: 'Nanjing, China'
+        id: 'skydiving-san-diego',
+        title: "Sky Diving in San Diego, California",
+        date: 'December 26, 2021',
+        content: `
+### Taking the Leap: My Skydiving Adventure
+
+It was the decision that I took at the end of the year, December of 2021. I had always wanted skydiving after seeing cool Hollywood television series growing up in Nepal. I searched Google, did some basic research on safety, and figured out that it's 0.003 casualties per 1000 jumps—safer than a car crash or many other daily activities.
+
+I bought a package for $393 at a place in Jamul, CA. The cost of the video and photos was literally equal to the cost of the jump itself, but for a lifetime experience, I was determined.
+
+#### The Experience
+The most nerve-wracking part wasn't the jump itself, but signing the hundreds of pages of liability waivers. "We don’t cover this, we are not liable for this"—that part was more scary than jumping from 13,000 feet!
+
+Met my instructor, Chris, a middle-aged veteran. When I told him I served in the Nepalese Army for 9 years, the bond became even closer. 
+
+#### The Freefall
+The first 15 seconds were incredibly fast. Every second counts as you fall—you feel like you're in a "phantom of space" where nothing else exists. It was like being in the *real* metaverse, not a digital fantasy, but a raw, physical experience of existence.
+
+![Skydiving View](https://images.unsplash.com/photo-1521312905814-710f63841987?q=80&w=2070&auto=format&fit=crop)
+`,
+        image: 'https://images.unsplash.com/photo-1521312905814-710f63841987?q=80&w=2070&auto=format&fit=crop',
+        tags: ["Skydiving", "Adventure", "California", "San Diego"],
+        location: 'Jamul, San Diego, CA'
+    },
+    {
+        id: 'paragliding-pokhara',
+        title: "Paragliding in Pokhara: Soaring Over the Himalayas",
+        date: 'May 29, 2017',
+        content: `
+### Dancing with the Clouds in Pokhara
+
+Pokhara is arguably the best place in the world for paragliding, and for good reason. Nestled at the foot of the Annapurna range, it offers stable thermals and views that are simply unparalleled.
+
+#### The Take-off from Sarangkot
+Our journey started with a drive up to Sarangkot. As we stood at the take-off point, the entire Annapurna massif was laid out before us—Machhapuchhre (Fishtail), Annapurna South, and Hiunchuli.
+
+#### Soaring High
+Once in the air, the silence is what hits you first. You're no longer a spectator of the landscape; you're a part of it. Below us, the emerald waters of Phewa Lake shimmered in the sun, and the city of Pokhara looked like a miniature model.
+
+The experience of soaring alongside hawks and eagles, with the white peaks of the Himalayas as your backdrop, is something that stays with you forever. It's the ultimate way to experience the cultural and natural diversity of Nepal from a completely different perspective.
+
+![Paragliding Pokhara](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRU9Nf-vGysb3GPtagMYdmBRQnzwshOXwAGxYKQvN30BxbT9_ph6tXUwYC-TizEAwjVozgEZ4xOt5dXOs7c_1tniZa-R7FvO_59H9hp8dZ3ARfiiGtx9cdqI7cXwYSbgYUUJbI/s640/G0040132.JPG)
+`,
+        image: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRU9Nf-vGysb3GPtagMYdmBRQnzwshOXwAGxYKQvN30BxbT9_ph6tXUwYC-TizEAwjVozgEZ4xOt5dXOs7c_1tniZa-R7FvO_59H9hp8dZ3ARfiiGtx9cdqI7cXwYSbgYUUJbI/s640/G0040132.JPG',
+        tags: ["Paragliding", "Adventure", "Nepal", "Himalayas", "Pokhara"],
+        location: 'Pokhara, Nepal'
     },
     {
         id: 'traveling-in-himalayas',
@@ -213,5 +251,14 @@ Today marks the beginning of our adventure...`,
         image: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRU9Nf-vGysb3GPtagMYdmBRQnzwshOXwAGxYKQvN30BxbT9_ph6tXUwYC-TizEAwjVozgEZ4xOt5dXOs7c_1tniZa-R7FvO_59H9hp8dZ3ARfiiGtx9cdqI7cXwYSbgYUUJbI/s640/G0040132.JPG',
         tags: ['Travel', 'Nepal', 'Himalayas'],
         location: 'Nepal'
+    },
+    {
+        id: 'life-in-nanjing',
+        title: 'Life in Nanjing, China for a Month',
+        date: 'October 06, 2006',
+        content: `It was a beautiful evening in the month of June 2006, when I was nominated for a 10-month professional computing course in China...`,
+        image: 'https://photos1.blogger.com/blogger/4585/3941/200/IMGP0124.jpg',
+        tags: ['Travel', 'China', 'Culture'],
+        location: 'Nanjing, China'
     }
 ];
