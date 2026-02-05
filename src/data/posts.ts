@@ -214,9 +214,9 @@ Met my instructor, Chris, a middle-aged veteran. When I told him I served in the
 #### The Freefall
 The first 15 seconds were incredibly fast. Every second counts as you fall—you feel like you're in a "phantom of space" where nothing else exists. It was like being in the *real* metaverse, not a digital fantasy, but a raw, physical experience of existence.
 
-![Skydiving View](https://images.unsplash.com/photo-1521312905814-710f63841987?q=80&w=2070&auto=format&fit=crop)
+![Skydiving View](https://blogger.googleusercontent.com/img/a/AVvXsEiKz3pgnnyhkQrLBYm7PjHZqQAZIjhXiihp9tIMvasXbK_Py0BQzYfXm_PTfr8r93Qe5goQn7iJ9Q8c8QtIDOWMDhLSyZm3lig4G2_L6iHdBvmgDVK3k4dlhNteK80k0OxVOCTW9h0tuEvGOo1ICcOvfjv9IvTtBK1cjr0u9R_uFZxQzA6_5lA=s3840)
 `,
-        image: 'https://images.unsplash.com/photo-1521312905814-710f63841987?q=80&w=2070&auto=format&fit=crop',
+        image: 'https://blogger.googleusercontent.com/img/a/AVvXsEiKz3pgnnyhkQrLBYm7PjHZqQAZIjhXiihp9tIMvasXbK_Py0BQzYfXm_PTfr8r93Qe5goQn7iJ9Q8c8QtIDOWMDhLSyZm3lig4G2_L6iHdBvmgDVK3k4dlhNteK80k0OxVOCTW9h0tuEvGOo1ICcOvfjv9IvTtBK1cjr0u9R_uFZxQzA6_5lA=s3840',
         tags: ["Skydiving", "Adventure", "California", "San Diego"],
         location: 'Jamul, San Diego, CA'
     },
