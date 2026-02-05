@@ -68,3 +68,9 @@
     font-size: 0.9rem;
     opacity: 0.8;
 }
+
+.footer-updated {
+    font-size: 0.75rem !important;
+    opacity: 0.6 !important;
+    margin-top: -10px;
+}
