@@ -170,7 +170,24 @@ We descended the Normal Route to Plaza de Mulas Base Camp for a well-earned show
         title: 'Shakira Shakes Snapdragon: An Unforgettable Night in San Diego!',
         date: 'June 27, 2025',
         content: `Leaving Rancho Penasquitos at 7:30 PM, it was a long-awaited moment. I was counting the day. It's been a while since I bought a ticket. Shakira for me is an icon of humanity, a divine success, an empathy, a sport, human civilization and a unity in the polarized world. It's more than dance and songs!
-Every second counts as you fall down and you feel like you are in the phantom of space where nothing really exist and your mind doesn't have time to think anything else...`,
+
+The air, still carrying the faint chill of a receding night, hummed with anticipation as the clock nudged 7:30 PM. Leaving the familiar, tree-lined streets of Rancho Peñasquitos, it wasn't just another Friday evening to commute south. This was a moment long awaited, a threshold we were finally crossing, promising an adventure that stretched beyond the horizon and into the wild embrace of the unknown of euphoria.
+
+Attending so many games and events in Snapdragon stadium, I knew about the traffic of San Diego, driving south in 163 and taking the exit of east friars road. Never ever use the 15, if you are going to the Snapdragon for events. I've been to Snapdragon Stadium a lot, I know the San Diego traffic pretty well, You should definitely avoid I-15 when going to events at Snapdragon Stadium.
+
+Wow. Just, wow. My ears are still ringing (in the best way possible!) and I'm still buzzing from the incredible Shakira concert last night at Snapdragon Stadium in San Diego. What a show!
+
+Shakira truly brought her A-game for the "Las Mujeres Ya No Lloran" World Tour. The energy in the stadium was absolutely electric from the moment she stepped on stage. I mean, from the first beat, everyone was on their feet, singing along to every word and dancing. The beautiful steps of the Latin dance and song reverberate not only with Latin fans but equally with me although I don’t understand the Beauty of Spanish languages.
+
+The stage production was phenomenal in three contexts - the voice of Shakira, the dance and the stage environments. The environment and stage are the juxtaposition of light, sounds, 3D animation and display. I certainly believe that AI has been used, her voice was just as powerful and captivating live as it is on her albums. And those hips? They definitely don't lie! It was amazing to see her iconic moves in person. I learned how to shake the hips!
+
+We were in Section A1, Row 27, Seat 24 (and Row 28, Seat 24), and the view was fantastic. When she started in the beginning, Shakira was merely 10 ft away from me. Being able to experience that kind of proximity with thousands of other fans was truly something special.
+
+And then started……... .Waka Waka and San Diego FC in the top of the MLS western conference was a blast for me and the fans. And whenever wherever……the fun continues, and you sweat like hell, but you never stop.
+
+Many of the dance moves are rooted deep into the Latin dances and it was so good to experience that. However, some of the bits were very identical to the one done by Nepathya - Nepali legend band and also something related to the local music of Kathmandu valley and Shiva’s Tandav dance. It might be a coincidence, but I feel the mix of all eastern and western music and dances.
+
+If you ever get the chance to see Shakira live, do it! You won't regret it. What a night to remember! I will definitely go again if she is back.`,
         image: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCfwyTWz2IZiQrTsI8ZXmOcaLy1qxnxRpX1yYaMqI9HWRLvowlhITBhOw93zYPTNcmMYoC1g3Yt_hcukq7LqDfixrUzgt4Ht-Qm6ORej6Lrj8e2UCRPHU-wz60kI5cKshn_zgic9u3dzF1h1wae1yq3FCllF5y7ZcZQbWnbdggxv0c7xuigqyORw/w300-h400/IMG_3280.JPEG',
         tags: ['Concert', 'Music', 'San Diego'],
         location: 'San Diego, CA'
@@ -180,7 +197,28 @@ Every second counts as you fall down and you feel like you are in the phantom of
         title: 'Hiking Kilimanjaro, the roof of Africa',
         date: 'May 18, 2025',
         content: `“Jambo Jambo Bwana Habari Gani Nzuri Sana Wageni MwakariBishwa Kilimanjaro” - Kilimanjaro song
-"Oh, the sheer variety of Kilimanjaro's terrain! It's like stepping through different worlds on a single mountain...`,
+
+"Oh, the sheer variety of Kilimanjaro's terrain! It's like stepping through different worlds on a single mountain. You begin in the warmth of an equatorial setting at the base, where life bustles, but as you climb, the journey takes you into a completely different realm – the stark, icy conditions of an Arctic summit. Imagine that! Five distinct zones greet you: the welcoming Lower Slopes, lush and vibrant; the misty, mysterious Rainforest, where the air is thick with humidity; the Moorland, with its dramatic shift from sun-baked days to chilling nights; the rugged Alpine Forest, all rock and scree; and then, the final, awe-inspiring Arctic zone, where the cold bites deep and the wind whispers secrets of the summit. It's a truly remarkable place where nature shows off its incredible diversity.
+
+My own adventure began with a series of long flights. Leaving sunny San Diego for a quick hop to Minneapolis, I was then off on an overnight journey to Amsterdam’s Schiphol Airport. Finally, another long haul took me to Kilimanjaro, Tanzania.
+
+After lunch, it was about four hour drive from Arusha that took us to the Lemosho Gate (7,550 ft / 2,300m), located on the western side of Kilimanjaro. We registered at the gate and entered Kilimanjaro Park, beginning one of the least trodden routes compared to the "standard" lines of ascent.
+
+In approximately three hours, we reached camp in the forest at Mti Mkubwa, otherwise known as Big Tree Camp, at 9,186 ft / 2,800m. That first night on the mountain was something else! I could hear the roars of beautiful black and white monkeys echoing through the night. It felt like I was truly immersed in the wild.
+
+The Crater rim has been massively eroded over time by weather and volcanic action. Today we'll get our first close views of Kibo - the central volcanic cone and literally "the Roof of Africa". The walk was approximately 6 hours before reaching the camp at 11,480 ft / 3,500m.
+
+I remember just staring, completely mesmerized, realizing that this wasn't just another mountain; it was something truly special. It looks pretty flat on the top. I can see some snow on the top. After breakfast, we continue to hike east across the Shira Plateau past the Shira Cathedral (12,470 ft / 3,880 m), towards Shira Two Camp.
+
+Day 5 took us from Shira Two Camp to Baranco Camp (12,795 ft / 3,900 m). We reached the Lava Tower, way up at over 15,000 feet. Then came the slow descent to Baranco, surrounded by an incredible landscape where the southern ice fields started to become clearer and clearer.
+
+Day 6: Baranco Camp to Karanga Camp (13,300 feet / 4,050m). Our first challenge was the infamous Baranco Wall, 984 ft / 300m high. It looked terrifying but the trail wound its way up nicely.
+
+Day 7: Karanga Camp to Kosovo Camp (16,010 feet / 4,880m). We headed steadily upward to the high camp of Kosovo. The air is noticeably thin now. We woke at approximately 11:30 PM for the summit.
+
+Day 8: Kosovo Camp to Uhuru Peak (19,340 feet / 5,896m). With head-torches for several hours until the sun rose, we aimed to reach Stella Point. From Stella Point, we continued for approximately one hour more until we reached Uhuru Peak, the summit of Kilimanjaro! We reached the top at 8:53 in the morning.
+
+That last morning was bittersweet. Saying 'kwaheri' – goodbye – to the porters was emotional. The hike down to Mweka Gate took about four hours. I met some truly incredible people from Brazil, the US, New Zealand... and of course our amazing team of fifty from Tanzania. Thank you, everyone!`,
         image: 'https://lh7-rt.googleusercontent.com/docsz/AD_4nXcOdgrNratZDgXqn6MfCsMopcCNVsJOISnfijo7MV1IMK6OFXACj32egHGEjj9xZbeKN0soMPUliFG9n47Q733WHO-55ARytS0rJ7HiHwyo50QkUXVrVanNl90Uxp81FyG8KK3LbA?key=RG9KWpZ8wPjWWIcXoGdZIEc4',
         tags: ['Hiking', 'Adventure', 'Africa'],
         location: 'Tanzania'
@@ -247,7 +285,7 @@ The experience of soaring alongside hawks and eagles, with the white peaks of th
         id: 'traveling-in-himalayas',
         title: 'Traveling in Himalayas : Experiencing cultural and natural diversity of Nepal',
         date: 'May 29, 2017',
-        content: `The trail looks truly natural and aesthetically pleasant...`,
+        content: `The trail looks truly natural and aesthetically pleasant. The indispensable sage to hike and feel the himalayas surmounts by the superiority of nature and the cultural depth of the region. Experiencing the diverse landscapes from lush valleys to high altitude passes is a journey of a lifetime.`,
         image: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRU9Nf-vGysb3GPtagMYdmBRQnzwshOXwAGxYKQvN30BxbT9_ph6tXUwYC-TizEAwjVozgEZ4xOt5dXOs7c_1tniZa-R7FvO_59H9hp8dZ3ARfiiGtx9cdqI7cXwYSbgYUUJbI/s640/G0040132.JPG',
         tags: ['Travel', 'Nepal', 'Himalayas'],
         location: 'Nepal'
@@ -256,7 +294,7 @@ The experience of soaring alongside hawks and eagles, with the white peaks of th
         id: 'life-in-nanjing',
         title: 'Life in Nanjing, China for a Month',
         date: 'October 06, 2006',
-        content: `It was a beautiful evening in the month of June 2006, when I was nominated for a 10-month professional computing course in China...`,
+        content: `It was a beautiful evening in the month of June 2006, when I was nominated for a 10-month professional computing course in China. This experience opened my eyes to a vibrant culture and a rapidly advancing technological landscape, marking the beginning of many international adventures.`,
         image: 'https://photos1.blogger.com/blogger/4585/3941/200/IMGP0124.jpg',
         tags: ['Travel', 'China', 'Culture'],
         location: 'Nanjing, China'
