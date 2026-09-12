@@ -19,6 +19,95 @@ export interface Post {
 
 export const posts: Post[] = [
 {
+  id: 'knotts-berry-farm-ryan-ella',
+  title: "Knott's Berry Farm with Ryan and Ella.",
+  date: 'Aug 22, 2026',
+  content: `
+### The Drive Up from San Diego
+
+We drove up from San Diego with real excitement — the kind only a theme park day can bring. There was no traffic at all, and we reached the park pretty early, which felt like a small victory before the day even began.
+
+### Chicken for Lunch
+
+Lunch at the chicken place was good. Mrs. Knott's famous fried chicken is a tradition for a reason, and it hit the spot before an afternoon of rides.
+
+[Image 0: The old wooden coaster bones]
+
+### The Rides
+
+The park's biggest, most sophisticated ride was closed for the day, which was a disappointment. But Ryan and Ella did not let that slow them down — they rode most of the hard ones, the tall and the fast, one after another.
+
+My favorite was the coaster that dives through the Mayan temple (Jaguar!). Something about rushing through that temple gave me goosebumps. It was my best ride of the day.
+
+[Image 1: The temple ride]
+
+One thing that struck me: so many of the coasters look old, built from wood, these towering wooden frameworks that have been standing for decades. There is something honest about them — no sleek steel shell, just timber and gravity.
+
+[Image 2: Waiting at the platform]
+
+### A Hot Day, A Great Day
+
+It was a hot August day, no way around that. But we had a great time — the three of us, riding hard, eating well, and driving home tired and happy.
+
+[Image 3: In line for the next one]
+`,
+  image: '/Travelnew/images/knotts/knotts-cover.jpg',
+  tags: ["Knott's Berry Farm", "Family", "Theme Park", "California"],
+  location: "Knott's Berry Farm, Buena Park, California",
+  gallery: [
+    { url: "/Travelnew/images/knotts/knotts-01.jpg", type: "image", location: "Knott's Berry Farm", caption: "The old wooden coaster bones" },
+    { url: "/Travelnew/images/knotts/knotts-02.jpg", type: "image", location: "Knott's Berry Farm", caption: "The temple ride" },
+    { url: "/Travelnew/images/knotts/knotts-03.jpg", type: "image", location: "Knott's Berry Farm", caption: "Waiting at the ride platform" },
+    { url: "/Travelnew/images/knotts/knotts-04.jpg", type: "image", location: "Knott's Berry Farm", caption: "In line for the next one" },
+    { url: "/Travelnew/images/knotts/knotts-05.jpg", type: "image", location: "Knott's Berry Farm", caption: "Soaring through the palm trees" },
+    { url: "/Travelnew/images/knotts/knotts-06.jpg", type: "image", location: "Knott's Berry Farm", caption: "Supreme Scream, straight up" },
+    { url: "/Travelnew/images/knotts/knotts-07.jpg", type: "image", location: "Knott's Berry Farm", caption: "The park from the top" },
+    { url: "/Travelnew/images/knotts/knotts-08.jpg", type: "image", location: "Knott's Berry Farm", caption: "Coaster views" },
+    { url: "/Travelnew/images/knotts/knotts-09.jpg", type: "image", location: "Knott's Berry Farm", caption: "Ryan and Ella on the Pony Express" },
+    { url: "/Travelnew/images/knotts/knotts-10.jpg", type: "image", location: "Knott's Berry Farm", caption: "Coast Rider smiles" },
+  ],
+},
+{
+  id: 'ed-sheeran-petco-park',
+  title: "Ed Sheeran Live at Petco Park.",
+  date: 'Jul 21, 2026',
+  content: `
+### A Night at Petco Park
+
+Ryan and I went to Petco Park to watch Ed Sheeran live on his LOOP Tour. A stadium show, right here in San Diego — the kind of night you say yes to without thinking twice.
+
+### The Opener
+
+Sigrid opened the evening, warming up the crowd as the stadium filled in. The sun was still up, the seats were filling, and you could feel the anticipation building.
+
+### One Man and a Loop Pedal
+
+Then Ed took the stage — alone, the way he does it, building entire songs live with nothing but his guitar and a loop pedal. Watching one person hold a whole stadium that way never gets old. The stage glowed blue, then pink, and at one point the whole place lit up with thousands of phone lights.
+
+### The Crowd
+
+Petco Park was almost full. Everyone on their feet, everyone singing — and it was hot again, one of those warm July evenings. There is something about 40,000 people singing the same chorus that gives you goosebumps — the good kind.
+
+A great night out with Ryan. We drove home hoarse and happy.
+`,
+  image: '/Travelnew/images/edsheeran/edsheeran-cover.jpg',
+  tags: ["Ed Sheeran", "Concert", "Petco Park", "San Diego", "Music"],
+  location: "Petco Park, San Diego, California",
+  gallery: [
+    { url: "/Travelnew/images/edsheeran/edsheeran-01.jpg", type: "image", location: "Petco Park, San Diego", caption: "The stage glows blue over Petco Park" },
+    { url: "/Travelnew/images/edsheeran/edsheeran-02.jpg", type: "image", location: "Petco Park, San Diego", caption: "A blur of pink light and music" },
+    { url: "/Travelnew/images/edsheeran/edsheeran-03.jpg", type: "image", location: "Petco Park, San Diego", caption: "Ed Sheeran, up close" },
+    { url: "/Travelnew/images/edsheeran/edsheeran-04.jpg", type: "image", location: "Petco Park, San Diego", caption: "In the round, surrounded by fans" },
+    { url: "/Travelnew/images/edsheeran/edsheeran-05.jpg", type: "image", location: "Petco Park, San Diego", caption: "Ryan and me before the show" },
+    { url: "/Travelnew/images/edsheeran/edsheeran-06.jpg", type: "image", location: "Petco Park, San Diego", caption: "Sigrid warming up the crowd" },
+    { url: "/Travelnew/images/edsheeran/edsheeran-07.jpg", type: "image", location: "Petco Park, San Diego", caption: "Blue night at Petco Park" },
+    { url: "/Travelnew/images/edsheeran/edsheeran-08.jpg", type: "image", location: "Petco Park, San Diego", caption: "Phones up for the encore" },
+    { url: "/Travelnew/images/edsheeran/edsheeran-09.jpg", type: "image", location: "Petco Park, San Diego", caption: "A sea of lights at dusk" },
+    { url: "/Travelnew/images/edsheeran/edsheeran-10.jpg", type: "image", location: "Petco Park, San Diego", caption: "The stage before the lights went down" },
+  ],
+},
+
+{
         id: 'aconcagua-expedition-andes',
         title: "Trip to Aconcagua [22,841 ft].",
         date: 'Dec 25, 2025 - Jan 17, 2026',
