@@ -31,7 +31,7 @@ We drove up from San Diego with real excitement — the kind only a theme park d
 
 Lunch at the chicken place was good. Mrs. Knott's famous fried chicken is a tradition for a reason, and it hit the spot before an afternoon of rides.
 
-[Image 0: The old wooden coaster bones]
+![The old wooden coaster bones](/Travelnew/images/knotts/knotts-01.jpg)
 
 ### The Rides
 
@@ -39,17 +39,17 @@ The park's biggest, most sophisticated ride was closed for the day, which was a 
 
 My favorite was the coaster that dives through the Mayan temple (Jaguar!). Something about rushing through that temple gave me goosebumps. It was my best ride of the day.
 
-[Image 1: The temple ride]
+![The temple ride](/Travelnew/images/knotts/knotts-02.jpg)
 
 One thing that struck me: so many of the coasters look old, built from wood, these towering wooden frameworks that have been standing for decades. There is something honest about them — no sleek steel shell, just timber and gravity.
 
-[Image 2: Waiting at the platform]
+![Waiting at the platform](/Travelnew/images/knotts/knotts-03.jpg)
 
 ### A Hot Day, A Great Day
 
 It was a hot August day, no way around that. But we had a great time — the three of us, riding hard, eating well, and driving home tired and happy.
 
-[Image 3: In line for the next one]
+![In line for the next one](/Travelnew/images/knotts/knotts-04.jpg)
 `,
   image: '/Travelnew/images/knotts/knotts-cover.jpg',
   tags: ["Knott's Berry Farm", "Family", "Theme Park", "California"],
@@ -82,11 +82,15 @@ Sigrid opened the evening, warming up the crowd as the stadium filled in. The su
 
 ### One Man and a Loop Pedal
 
-Then Ed took the stage — alone, the way he does it, building entire songs live with nothing but his guitar and a loop pedal. Watching one person hold a whole stadium that way never gets old. The stage glowed blue, then pink, and at one point the whole place lit up with thousands of phone lights.
+Then Ed took the stage — alone, the way he does it, building entire songs live with nothing but his guitar and a loop pedal. Watching one person hold a whole stadium that way never gets old. The amazing part was the bridge he brings between the two stadiums — it was beautiful, art and science at the same time. The stage glowed blue, then pink, and at one point the whole place lit up with thousands of phone lights.
+
+### The Songs
+
+He played the big ones — "Perfect" had the whole stadium swaying with phone lights in the air, and "Thinking Out Loud" had forty thousand voices singing as one. But the wildest moment was "Shape of You": the second those first notes dropped, the whole crowd burst with excitement — people jumping, screaming, singing at the top of their lungs. Pure electricity.
 
 ### The Crowd
 
-Petco Park was almost full. Everyone on their feet, everyone singing — and it was hot again, one of those warm July evenings. There is something about 40,000 people singing the same chorus that gives you goosebumps — the good kind.
+Petco Park was almost full — and July 21 was a Tuesday, not even a weekend, yet the place was still packed. Everyone on their feet, everyone singing — and it was hot again, one of those warm July evenings. There is something about 40,000 people singing the same chorus that gives you goosebumps — the good kind.
 
 A great night out with Ryan. We drove home hoarse and happy.
 `,
