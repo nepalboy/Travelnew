@@ -1,5 +1,6 @@
 import { Link } from 'react-router-dom';
 import { posts } from '../data/posts';
+import { stripMarkdown } from '../utils/stripMarkdown';
 import './Home.css';
 
 const Home = () => {
@@ -23,9 +24,9 @@ const Home = () => {
                             <img src={post.image} alt={post.title} className="trek-image" />
                             <div className="trek-info">
                                 <h3>{post.title}</h3>
-                                <p>{post.content.substring(0, 100)}...</p>
+                                <p>{stripMarkdown(post.content).substring(0, 100)}...</p>
                                 <div className="trek-meta">
-                                    <span>{post.date}</span>
+                                    <span className="trek-date">{post.date}</span>
                                     <span>{post.location}</span>
                                 </div>
                                 <Link to={`/post/${post.id}`} className="view-details">Read More</Link>

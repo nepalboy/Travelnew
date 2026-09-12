@@ -174,3 +174,7 @@
         grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
     }
 }
+.post-meta-header .post-date {
+    font-weight: 700;
+    font-size: 1.4rem;
+}

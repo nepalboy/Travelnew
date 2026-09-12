@@ -28,7 +28,7 @@ const PostDetail = () => {
                 <div className="post-title-overlay">
                     <h1>{post.title}</h1>
                     <div className="post-meta-header">
-                        <span>{post.date}</span>
+                        <span className="post-date">{post.date}</span>
                         <span> | </span>
                         <span>{post.location}</span>
                     </div>

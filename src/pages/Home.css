@@ -171,3 +171,8 @@
 .view-details:hover {
     color: var(--primary-color);
 }
+.trek-meta .trek-date {
+    font-weight: 700;
+    font-size: 1.05rem;
+    color: #333;
+}

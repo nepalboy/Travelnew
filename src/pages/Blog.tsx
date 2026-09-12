@@ -1,5 +1,6 @@
 import { Link } from 'react-router-dom';
 import { posts } from '../data/posts';
+import { stripMarkdown } from '../utils/stripMarkdown';
 import './Blog.css';
 
 const Blog = () => {
@@ -13,10 +14,10 @@ const Blog = () => {
                         <div className="blog-info">
                             <h3>{post.title}</h3>
                             <div className="blog-meta">
-                                <span>{post.date}</span>
+                                <span className="blog-date">{post.date}</span>
                                 <span>{post.location}</span>
                             </div>
-                            <p>{post.content.substring(0, 150)}...</p>
+                            <p>{stripMarkdown(post.content).substring(0, 150)}...</p>
                             <div className="blog-tags">
                                 {post.tags.map(tag => <span key={tag} className="tag">{tag}</span>)}
                             </div>
