@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1b2a4a"/>
+      <stop offset="1" stop-color="#3b5a80"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#sky)"/>
+  <circle cx="950" cy="130" r="70" fill="#f4e9d0" opacity="0.9"/>
+  <path d="M0 480 L300 220 L520 430 L700 260 L950 480 L1200 300 L1200 630 L0 630 Z" fill="#0f1c2e"/>
+  <path d="M300 220 L360 290 L300 330 L250 280 Z" fill="#e8eef4" opacity="0.85"/>
+  <path d="M700 260 L750 320 L700 350 L655 305 Z" fill="#e8eef4" opacity="0.85"/>
+  <text x="600" y="560" text-anchor="middle" font-family="Georgia, serif" font-size="44" fill="#f4e9d0" opacity="0.9">Traversing With Time</text>
+</svg>
