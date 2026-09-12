@@ -256,11 +256,7 @@ It was four hours’ drive passing through the rides and small villages with
 agricultural land. We stayed at freedom hotel, which was good and ate nice
 dinner. We can also see the small, tiny airport from where we will be flying to Lukla, the world's most dangerous airport.
 
-> [
-
-![Photo](/Travelnew/images/blogspot/blogspot_b2260118228568a9.jpeg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKzs2Paj4s4n_ELxVbKb849uvJMIvS2btS4Z63hCB7dBdiCO3lZwBmcdNb94eOooZNB32R909EYGcVDNEYajMymv9r4RU4KSRnMkwrhkzGDkZcKSX-p8HwulHWnED7XjppxFhYC8WMqtWQLUKeC_wpNotqDU5vpN_e1tUyIvXAxNhIcY0J1wZc-g/s2048/IMG_2478.jpeg)
+> ![Photo](/Travelnew/images/blogspot/blogspot_b2260118228568a9.jpeg)
 
 On the Way to Manthali, Ramechap
 
@@ -272,19 +268,11 @@ landed in the Lukla, the world’s most dangerous airport in the world. There is
 no way that plane can stop when taking off from the airport, the runway is too short. Search the YouTube
 and look some videos.
 
-[
-
 ![Photo](/Travelnew/images/blogspot/blogspot_5c3f7c79b471173f.jpeg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibLBTRjitpkSa7vksYEzgoKgoDEWpcbEMFbZ3WWB5Up1JUvEuLP8yCaqrdh9yDhrX6QQCPempej4VfJUWbhNA4RTq7Fuq5sk9L30SDyVAhk9drhMasTV1lbKbQOmRXs4gu4ODgesS7FpIt5QZ5RdFwtwfeVKqg33otSKIWmHpT419Sws_cnjIVgg/s2048/IMG_2514.jpeg)
 
 Tara airlines - half passenger half cargo! what's going on ?
 
-[
-
 ![Photo](/Travelnew/images/blogspot/blogspot_c9a5f9561409fc14.jpeg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFG4UA9E-O8Jt66b2NDt7iHbQTcPrmlreS57URJaJKyCwlp1BoFM5hvcnfWdRywI3lZs78oYrNqFbn1GL74DPK8UUSePjstmgnSX7-x0uBxhyphenhyphen01JWUAvFrzj7RzG-Dw4kWo0VOdlxbYBqfUPBr0eEwV-yzH0RdWxK_55xi2-nPpH-9lBpX65tamQ/s2048/IMG_2526.jpeg)
 
 World's most dangerous airport, Lukla Airport, Nepal
 
@@ -296,27 +284,15 @@ all over the world, Thailand, France, Singapore, German and also met a Tunisian
 French surgeon. We stayed at Phakding, a
 small mountainous village. The Team is ready!
 
-[
-
 ![Photo](/Travelnew/images/blogspot/blogspot_8c08f863185f2865.jpeg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4V63Gu1jsQ0u6xl6gGmrqTujgk5-iOpElBgg4oxgWufD8ftd8gQyFkcRy6RVFDI8ntt58mQ1ugr8CPfCiVRcRL63Ijb5E7Zx9Y24Y6aqoVwjQHcpFc9Lynnay-3yGfg_4lo80b0H1hDY5ssEWlRmuC8Ywc7lxrWeoF_kGItN-XNr0orFlxrEMiQ/s2048/IMG_2576.jpeg)
 
       Happy Dogs of Lukla
 
-[
-
 ![Photo](/Travelnew/images/blogspot/blogspot_958b83a059936f49.jpeg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEim6yR7yUK7fFQFKGEom78jEohitYaEuhmWGJFA5VqCdVypZItq_h8QuygqwnfbsG1mBW7V98UemS0ZOE0vkqmj9QTvXebQP6c64S9NE6-HtlGL8Ln0837obeGHQQL731RVuoCsYrJoqeJYkiRGRpK2S_Pc-_tC64_ng0vq94-tjnIJSC5FQsQMWA/s2048/IMG_2579.jpeg)
 
 In the way to Namche Bazaar, Rhododendron flower.
 
-[
-
 ![Photo](/Travelnew/images/blogspot/blogspot_0001348ca37a7c39.jpeg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhcX000QaHsvEC1X4tHbqNjg5miimadnTb0PBROey75yGi-fEwoaQy1sr7xVXN8kvv7eD8huqtfaKq3M0kBN5L3V3SgyD8iXCw53vO4Awo0OzmMC54YJ9jmBVFoXWqMOwyrMe_AxD3MWIHPfZkzKVPc9bhMwu9YjOONO07ML75CPhA-cwecbmKCw/s2048/IMG_2622.jpeg)
 
 Day 03-05: April 08, 2023. It was a nice trip from Phakding
 to Namche Bazaar, a harsh mountain and many suspension bridges. For the sake of
@@ -324,11 +300,7 @@ altitude sickness, we stayed in Namche Bazaar for acclimatization.
 
 Sagarmatha National Park, Namche Bazaar
 
-[
-
 ![Photo](/Travelnew/images/blogspot/blogspot_dd931100ba64a88e.jpeg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXQs9fzz-ySiEXC54ZHca9MiXyB__uev6A-ogG3j-2HZ7l1h-PoXGxvimhz9KBeYstDn5h7MN11yLS3G2M6yfuwfTQD06P322HnO37ADZY_mpn-vcMOb9d3HLtyKFrAu5YK-h0D3RKljyAi6zDwOoQre893rLbRMR3ZPzNDIC879VKJpGQSwSM6Q/s2048/IMG_2651.jpeg)
 
 Day 05: April 11, 2023. We went to viewpoint which was
 12,100 ft. Story of Sherpa, Tamang and
@@ -344,23 +316,11 @@ hours we arrived at Pangboche at 2:00 PM.
 
 On the way to Pangboche from Namche Bazaar.
 
-[
-
 ![Photo](/Travelnew/images/blogspot/blogspot_3052be6867b086d7.jpeg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_k24bQTwDxwx5cHt_g8_aAH8DBhtSvQvaH28XdluV0wXx7S2YZuSphvxRSrAlwsRyrCEI_FPGHKkS7juKDIsnNU1rJoMseLyR2byp75SIf-K6W2JlYX9rtQebqkrNW8g1-ibHvAs4sfMd4fgPnXvcREs1ZYhh_XPpgacJiSXBvvKZTrL02GhxHA/s2048/IMG_2662.jpeg)
-
-[
 
 ![Photo](/Travelnew/images/blogspot/blogspot_ae6beef9f1f53735.jpeg)
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkXKzCEIYgJO-iAZVUlkDJFvWA0WZzg3-bbdG-cG730-8TOiUvX4g2gT65e6vF0PFiU47W1Q3WdCi0XC1pG85KxVEtFUDd1UFuVSwGksTuyqFMJH-aMgd17GdNdYZVKENqZi61KIgBxRLeKBdw-D7c1AdNmUskJWd6ZhKiRcJENUty01O_Ua96dg/s2048/IMG_2670.jpeg)
-
-[
-
 ![Photo](/Travelnew/images/blogspot/blogspot_42e383d75daf049f.jpeg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiITbcCuLF2Nm6tFYH9Mjg2S1vHEoVJpgvPbh9h-97S36xI8eIYR5ZWH1HtvuSSSLfEZJ7iE2vnj8jkeqEcVfkK_RUFcDk6Zvl7xBAqpZ864oGjtS1O4nTNeLa_gSBkjVpsuQjSEZyBvcZrWuv6W2sr5jEpLuTHVWg1Nx-PU6Tz4LwB3VzqIjSyA/s2048/IMG_2727.jpeg)
 
 Day 06: April 11, 2023 , the next we reached a Dingboche,
 small town of twenty-thirty lodges. We also went to the French bakery café –
@@ -370,11 +330,7 @@ French.
 
 Dingboche
 
-[
-
 ![Photo](/Travelnew/images/blogspot/blogspot_08eebeb0a522c077.jpeg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDNuIilLYpnng9HDMPAgaQiUvgUvT3dy1UfIHB6CVz1xLsDjIWiX5BsNiFKPmRhIgA2d3dA2cIG881wCwcGFDh-jbx7-arAi4HWnyIiw7QF7_Cybx5YoTebCnulcZaM57LsVRdeBE8PEzezTM8nli2q3z9vdzfFwBGKVv9ZLFBj7DC4oYyh_9aLA/s2048/IMG_2790.jpeg)
 
 Day 07: April 12. We had breakfast at hotel mother earth, lobuche.
 Drink hot chocolate at the world’s highest bakery café in the elevation of 4930
@@ -386,19 +342,11 @@ in the year 2023, three sherpas lost their life in Khumbhu Ice fall.
 
 On the way to Lobuche
 
-[
-
 ![Photo](/Travelnew/images/blogspot/blogspot_d0f06117cbc0661f.jpeg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3wKjtSDgVOtqf5pX0KwIrNP1Gu30N_-aCZRcDupYQESnNCoOBCDmf78pG6PxYJKsVj8H4PVSGLQwcUwJ3ZBc99cMfmoOi7Sx2zpJODfR6BQ0j0eBkNBYdtr9O-fnmhyphenhyphenC2c3fF2DkXpDLeO1nUVlH0IoRQFif4mbhE9z5j0khL1UCTooqLy-d6wA/s2048/IMG_2831.jpeg)
 
 Worlds highest bakery cafe
 
-[
-
 ![Photo](/Travelnew/images/blogspot/blogspot_5d64ea33ce0fe347.jpeg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjORIyALDvUNSEqpLXqANKW07YuFwiPs9Nrv2hujnQV-P3hd8PcdJv5mYFiEbKX8ns99NC51ioIn7OSjnebrbm21qCM-8iN9FwqY9p5_cQTS75WMyKnLP5w-T0J2Sx9vXHTXOYjFtUs_KzUhlX-DNu-vhwx-Cib8FRuihT_nE_XU3rRxKd8Rqz1-Q/s2048/IMG_2851.jpeg)
 
 Day 08: April 13 As
 the altitude goes higher and higher, the cost of food increases exponentially. You
@@ -408,11 +356,7 @@ high Himalayas. One thing I was surprised was the huge number of hikers coming
 from the Asian countries and how things both culture and economy is changing in
 that part of the world. Nevertheless,median age of hikers skewed in 50s.
 
-[
-
 ![Photo](/Travelnew/images/blogspot/blogspot_926d3474d9b84893.jpeg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgyID45ZEYlP6G67wROk8mHTvjeMnu74xRwiDyXmhjPJK2e8mBHNfRHsixACbr9ksav0AQDp-pY5jiwYa1o23ivZiVRV5izKNfrW91WgVPLSE5APxCS3kYQZSKGq1oSpjsiMnVIpVkeJk1l5SFkLmbWtVFDL0Aa94bU7ddRyV-oPyPy_2pJtrFLw/s2048/IMG_2880.jpeg)
 
 Day 08 : April 13: We left for Gorakshep at 6:35, the final destination
 from where we can climb Kalapatthar and go to the Everest base camp. We reached
@@ -425,19 +369,11 @@ big, majestic stone was amazing.
 
 way to Gorakshep
 
-[
-
 ![Photo](/Travelnew/images/blogspot/blogspot_e19fd3b64268ed5e.jpeg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6Rew06oA6zKkPdOQoaRtVJhX-nM10Qq_tW5b8wMy_6QIPM2TIFFdiVE-JZOAPPQEDLuJQ6DTTrAznm6hyphenhyphenjBwk83T77gJLZhgXTE8nXaCIrW__YRo7TNpnoKmH69HHyk_-WNFqn8-WdKxjeOr2e6f-p7yzgG0ZHg-FbRGpw_X2O_sUyA1yGUF2ug/s2048/IMG_2901.jpeg)
 
 Way to Everest Base Camp
 
-[
-
 ![Photo](/Travelnew/images/blogspot/blogspot_6bbbbdf85d9549f2.jpeg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUOtFc9H47Lm-1CBQ9uSULaTCTG-sviUleIAalOf6FYMAZfdpOAhRw3ifTK6t56uJinnZDCooQY7LZRc_zAqM85aapEKda-1zn4WosBexTYX5V4ikfMK6iQWv6jxIbqvAK1OmoIEldMfoK4mVg57WKU-G37jS48Duu5W6WKmtLBjNOuydfzyJjrA/s2048/IMG_2905.jpeg)
 
 The final stretch way to Everest Base Camp
 
@@ -445,19 +381,11 @@ The final stretch way to Everest Base Camp
 
 Finally, Everest Base Camp , April 13, 2023
 
-[
-
 ![Photo](/Travelnew/images/blogspot/blogspot_9bc90c22a7083205.jpeg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8FbMrIU4pssvCktcvH5cnbcoqA14bUj-ZgxC10w5sZv5TzV79JmKyGXPrNoEMsZ9IJWGRKhZsdQHn9ISGuhFYEOozHf74wPcJvng5NsLgM4LZzlsV1ZkvIGEW0W_kEnMrdEku4ukO0VGkKQModH3YI9zrFaXKVN-JA-KbAA52xoZqXCXGeOTlNw/s2048/IMG_2924.jpeg)
 
 Happy Face
 
-[
-
 ![Photo](/Travelnew/images/blogspot/blogspot_51caad4cedd8e4cc.jpeg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTRvM7F7JVP50WwM9oxu-N52WEXr3A_EnleNv50H35A27qOLgucCCIAeNqqoUh5Xu1Qh6zWpKH_njyvB35ohzL2x4oiPaVN2txEgSs-6tfaqvixQBPl7chodICVqB6RsdgL0-2kWe7QRPo2d1kK2ya2GZbUdVjeIReTz8gumAu9l4NTT-HytMA9g/s2048/IMG_2925.jpeg)
 
 Day 09 : April 14 We woke up at 330 am in the morning and make
 our way to the “Kala Pathar” – black stone, although we met couple of people on
@@ -467,11 +395,7 @@ Pathar was 18519 ft, which is higher than Everest base camp, 17598 ft.
 
 Mt. Everest from Kala Pathar.
 
-[
-
 ![Photo](/Travelnew/images/blogspot/blogspot_c6f224dec36d3e03.jpeg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLPXeC0eCyKj74q4M-pyyBKTQqwuH0Ium8f6-m52IgewffdRjvJESWRWHFjYZli8JuCnSejdCOb2otNF_gZGabfNavxUesB_HmGDQzWdm1YZkT0U3mkwT7ViDmOFb5HuCRD6PU8OET38pguAVp5hMWVpUpe59oZ9qfCauwmgT8exlJOGqG_EUmIw/s2048/IMG_2956.jpeg)
 
 Day 10: April 15 The new day began, and we are going down
 from today, glad we accomplished, it was a difficult hike, but we are going
@@ -505,63 +429,31 @@ trip wonderful.`,
 
 It was a beautiful day on December 24, the Chrismas eve and we headed towards the Catalina Island. It was an hour drive from San Diego to Dana point and one hour fifteen minutes via catalina express west in pacific ocean. The Dana point itself was great place to explore with beautiful ports and lavish restaurants. It was easy to get a parking pass and park nearby in the parking lot after you pay parking fee.
 
-[
-
 ![Photo](/Travelnew/images/blogspot/blogspot_1f0beea434a68c03.jpg)_by_Sentinel-2,_2019-03-30.jpg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfqN4fOAsM4KI35skRsBIOlP-Qh3RP3tqYvJy8SrT6bq3cdrfy-6M2LtwTdcuNhSGxhXU25XUNjckHRdmOFMNPxM96BKc_StJKILg9U_SEGCA0VmxW9Dyej7s1HnryK1qpw8uMxDS2ZZdrPJekOwpukZq7pHJDK2a6Zb1H7jJlRDguXV9OY2E/s3390/Santa_Catalina_Island_(California)_by_Sentinel-2,_2019-03-30.jpg)
 
 Santa Catalina, one of California’s Channel Islands, lies southwest of Los Angeles. It's known for its wildlife, dive sites and Mt. Orizaba, its highest peak with altitude of the 2097 ft. The resort town of Two Harbors lies to the north. To the south, in the city of Avalon, palm trees and cabanas line Descanso Beach. Avalon’s circular, art deco Catalina Casino is a cultural center with a movie theater, ballroom and museum.
 
 Catalina express leaves the Dana point at 2:45 PM and its an hour and 25 minutes ride. Dana point is an hour drive from north county, San Diego. The island is 22mi (35km) long and 8mi (13km) across at its greatest width. The Catalina Island is about 30 miles from Dana Point.
 
-[
-
 ![Photo](/Travelnew/images/blogspot/blogspot_014439904f960455.jpeg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDOfLuqw97WwIKanszl2G740O0J482WM5fforj2J5kg15QfV1NvgHdTrZaVnvt7Ajbn3R7yEDZzifGgGiAiZGmQqf6EGXf8kbuJKub1LPLwcoLsdqubaRqVYsDCzTYHC9m9W-oGQWrqJF1YfGTtTUny1YrfvyTHrJyOk1FuSy6lrsPZ_HSLQ8/s2048/IMG_1800.JPEG)
-
-[
 
 ![Photo](/Travelnew/images/blogspot/blogspot_e421cee48197141f.jpeg)
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEHplmWghC3KvjJdbPvPSvD-xyZZrkV2smADlJu8wvg4B71lgacBEVxsQ0yNTr37Xj9VLJC8Ri3mCeXXjz0k0KSNlNP5HjBbL60S3IVKYl198RJ2IvUod_Mt_t7oyWtB85Do6K5p3nq_Dg3AMYKkKx5ETwfktzGybl1vlkXA6LtFh5PGsgiLQ/s2048/IMG_1809.JPEG)
-
 In the pacific ocean , way to catalina island. It was a nice blue water and cool breeze. Drinking hot chocolate and watching seamless and endless ocean was not only fun but shows the beautiful nature in the water. I remember the whale watching trip I had at San Diego couple of years back, and trip in south-china sea at Shenzen in the year 2007.
-
-[
 
 ![Photo](/Travelnew/images/blogspot/blogspot_f969f9e7adfb53a8.jpeg)
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjON9ESsIhaDufAETwdeB-GTjX0QAim9cb5WP1a-S0TXLMfn7fRksJ4ZWIFOZ3EEl8L7LakrnnuWL_XAwpJeh7V-hej2yXUkVl4w0NnsvVBNbfBGRhCWVZaSoMMqpy0QwnQ9Igq3zc4VJ0wb6G6WEJ7iQjNqaCa-UQUV-T7F4W9MsDod3jiAKI/s2048/IMG_1821.JPEG)
-
 The golf cart is the main vehicle in the island for transportation that has about 4000 people. I love the concept of using golf around the Island as it conserve the environment. There are about 100 cars (my guess) When we reached the island, we took the taxi to go to the hamilton cove, the home for next three days.
-
-[
 
 ![Photo](/Travelnew/images/blogspot/blogspot_09944ddf39650f50.jpeg)
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4miE71SxHTx3suRB-kTEZfBNEaelg8lsfypZdJNOFXE5INtk7bikgvk0oyRG_HkXrcrowXAAXsquV1BiEIVLclJij_oBmTSG8mCUky5Lhf3coFoJnrY_6Uas_gIF4UYAea25Fx45BF1NSZUeVfXo_BeBX_5inZZo463fLXT8WRHTVmr0qwQY/s2048/IMG_1814.JPEG)
-
 Bison Tour: The Bison were brought to the catalina island in 1924 for shooing the movie, the vanishing american. Bison became the dominating animal in the island ruling widely in the north west side of the island. Its fun to have a bison tour where you will navigate the north west and west of the island where Bison rules and see the beautiful nature. There are currently about 100-200 Bisons ruling the Catalina Island. The trip take you to north west of the Catalina Island and further towards north west, where you can see the Los Angeles in the clear day. We also saw the amazing dwarf fox - they were really small whose ancestors are huge in the mainland.
-
-[
 
 ![Photo](/Travelnew/images/blogspot/blogspot_6a7d4ca034cae7cc.jpeg)
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilP3-dtcv_so3WvB0Kuzn2iXBbG15VzTQsmkG_xXI67iyk2ghYWY8EWVEXXKw9MfK2kH-_WXSlXxdkArhninVAOlQ4QGkLtPq3wRDQvrORS3VAOc_eo_72ScmzwBKvMmb6XHj2R2cxyNlYgCffuwPgk5NYqFpKVpy4bkj1KKVJ_ud2xl84Zfg/s2048/IMG_1857.JPEG)
-
-[
-
 ![Photo](/Travelnew/images/blogspot/blogspot_ee02fa48253bd596.jpeg)
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiVH5_tibdfUotMw_quRD8NRLeAkvmTTZ5TUt3Uw59qoNp8LJI9kWiEpnuJ_LQZmgMic0KfifbKeO-93HFPkl4DP8t_jifGlFlQQadOgPqvMH1mzhUqOruPAUzo3KUhtY395W7xWntbMsFAUPlZA-CevcjxeyKbXOLexniol_6W1HD8Tj-8Dk/s2048/IMG_1865.JPEG)
-
-[
-
 ![Photo](/Travelnew/images/blogspot/blogspot_ee2c60ebb55529d9.jpeg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVf__BnsaQCHGRISlss1Dr7062pYuaId5HiRswewt5qbrb91746tN3YAy1v0Xq6CgQ39NUUZ0B8O5d-n6-MFvxH5sciWQQcANzcGPoFTsqgHAVx2SZJV8iMj6eIqObuFI-11q9shQinib5g71o1-InQVzkCvJ1HOvOvVUvxk-hxxe3hyWOaP0/s2048/IMG_1869.JPEG)
 
 Bison ruling the Catalina Island.
 
@@ -573,25 +465,13 @@ Parasailing. This was totally a new experience for me. I find it very much fun a
 
 Glass bottom boat - fish watching trip. This is an almost an hour trip where you have opportunity to see thousands of the fishes from the bottom of the ship. Its amazing to see so many types of fishes and different types of living things below the ocean. Its very exciting trip that mesmerizes the complexity associated with the nature and how things are working perfectly, amidst of the natural complexities.
 
-[
-
 ![Photo](/Travelnew/images/blogspot/blogspot_bc1455c2c4bc6ae6.jpeg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcSkMTstvKDzC4jzMiPOHLLRRRcUXCXSt_aYPAFieXh-9IHU6XgHAwhYtKgXIla1gw_ZP1nezD38MSRiSeU5adSd3LAWq56QqjB1F_gMojG7_dT5X8skroewUNfh38HLoIuoR3lwf1yc5KAhHdWNNlzrL2j1j8liOkIxVQRBhzVWB3YwFaXqs/s2048/IMG_1942.JPEG)
-
-[
 
 ![Photo](/Travelnew/images/blogspot/blogspot_4de68f2dedd3837c.jpeg)
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg35EtuBmkDDEBdBxdMkyhb1uBcHzv4FYV7QK-EhfA2LAhqr5mbFssl4Y09tdWEaYatTAtnkWbxpO6JIHC5deQTTxJIzK2D2W8OupYw4kJr9HzUNd-6B51xhZDTKaLfL_LCFvLE9p6rzzdVvIuKmymm6iyU44f43mFtwNykJ5hwqqzp5yAZeb8/s2048/IMG_1925.JPEG)
-
 Food. Food was amazing in the Island , we tried few different types of food but sea food is dominating in the Island. It was usually very busy and hard to find the restaurant in the chrismas eve and christmas day.
 
-[
-
 ![Photo](/Travelnew/images/blogspot/blogspot_f5477601739bbdd6.jpeg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXbi3i9-P2NrNVByQ3C8EeNn9X4brURZGlWTOmTFg29CNURFTF5xufezXiqRVV0YvbfKeo4rCujnRCvIPcK998wigTs5urc0cyYEETy9aLu4yrAcXXJQSs5QZmW5YXPfHb4hSzAMmhQo1Jd4TicYaNK-G9yxKq6eafT774QAS9C7T_knNl0SM/s2048/IMG_1901.JPEG)
 
 Downtown catalina island
 
@@ -674,11 +554,7 @@ I really want to go this trail again as we missed going to the Boucher Lookout a
         date: 'March 21, 2021',
         content: `It was the climax of COVID pandemic in early 2021 but the light was in the tunnel. The two vaccines moderna and pfizer were already in the market and the challenge across the world is how to administer and manage the supply chain of these vaccines beside the manufacturing and production challenges. Astrazeneca was added later in the list but the US decided to give those vaccines to the neighboring countries Canada and Mexico. In the city of San Diego, UC San Diego Health was leading the effort of vaccination in the San Diego Area with multiple major sites and a super station at Petco park. More importantly, it was one of the biggest vaccination sites in the world with 120 people being administered vaccines parallely at any time inside the patient car. Where in the world can this happen ? It's only in the United States of America.
 
-[
-
 ![Photo](/Travelnew/images/blogspot/blogspot_e6cf78cd33469bd4.png)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjewUHPzOCOZNqfsKsI4pAWIN4-9ZTv_TMAAyisHGzxwg5YnQZvay3mEJTWG8sfYM4j2NgDO9CMIiX88XnjFd_y_55w61qWMpMNw1Hb3ZmKoA0ES_VjEC2BsaDLUcVhtSc2KxWP/s179/download+%25282%2529.png)
 
 I remember doing full time volunteering for a day in the year 2014 to train grade eight students on economics at Allen Village School on November 05 at Kansas City.It was quite an experience, to manage students of middle school , without the class teacher the day would have been terrible. However it was a great memorable experience. I ended up learning economics101 from volunteering and understood how the school system works in the US. Even if you learn simple things in volunteering, that will make my day.
 
@@ -686,21 +562,13 @@ It was more than six years I did volunteering and I was really excited for this 
 
 As I arrived at 8:00 am in the morning of friday, 12th of february. It was super easy to park as they have top floors of MTS buildings for the parking. I went to the registration team and they assigned me to one of the lots - D4.
 
-[
-
 ![Photo](/Travelnew/images/blogspot/blogspot_16e3857d15c7e53b.png)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj43krpf1-ofvRorN9PhBySg36I7CqIdMUspiXiGBbxLQMHHaANIYTqSx5zzNsS0gZHHkDf-VpbberzY85NdUMcVD995t6s7EKhmk1HvS6MROj1E0JuVmiNd0MdZlpOQs7bIjVh/s179/download+%25284%2529.png)
 
 As I was a scriber, I had the opportunity to engage with patients and ask for their identity card and enter their personal information into the medical record system with vaccines lot number and a patient personal information. Every patient I worked with was very excited to give their identity card and receive their vaccination card back from me when they had a vaccine. That piece of information was like a treasure, the way people were putting the vaccination cards inside their purse.I saw a whole lot of different identity cards from passports to driving licenses to other state cards and a veteran card. People were inherently calm but excited and scared from inside.
 
 As the people pulled up their car inside the tents to line up for the vaccination, I can see people are excited with full of hopes in their eyes. I feel like the work I did was self-fulfilling, helping people to fight with the COVID pandemic. It was a constant flow of people with hopes and excitement.I didn't realize that it was already lunch time. They provided a turkey sandwich which was really good and I appreciate the sponsor who sponsored that food for us.
 
-[
-
 ![Photo](/Travelnew/images/blogspot/blogspot_f351a3fe22ed9646.png)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRYVeTQI9tsbqXVslS8zVgs89cRZIV92Cjq20C7g1C8JIP-PotI7nLK1r1TDT74q-df5dEaeyHLYeOE2BwHykBgFWXMuQa96wPlkikideXwv_4EE_cf9_ToifyeO_XF0QJWooT/s179/download.png)
 
 The other half day was a very busy day too. I didn’t realize it was 6:30 and It's time to leave. Still there were lines and people were coming. I thanked everyone and was also thankful to me and headed towards the parking lot. I have never worked like that, standing for ten hours. I feel so good. I specially saluted healthcare workers who were working round the clock for the vaccination putting their and families life at risk.
 
@@ -719,21 +587,13 @@ Welcome to the Portland, Oregon where mountains meet the Pacific. America's one 
 
 The green bike trail in the middle of the road to the public transportation, Portland has well excelled in the sustainability and progressive thinking.Portland, Oregon’s largest city, sits on the Columbia and Willamette rivers, in the shadow of snow-capped Mount Hood. It’s known for its parks, bridges and bicycle paths, as well as for its eco-friendliness and its microbreweries and coffeehouses. Iconic Washington Park encompasses sites from the formal Japanese Garden to Oregon Zoo and its railway. The city hosts thriving art, theater, and music scenes.
 
-[
-
 ![Photo](/Travelnew/images/blogspot/blogspot_6388fa80fefc68da.jpeg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhga__ipS6xlhRUpQNXvBe1LJ0rO4AH8VR1dqqnQS68S8Dn1gFhxdnNw7fVzQ5hCUoGrg9YN_yDCSd8pKzvJkb_t5N6IrWcyCEcsBXbsWLsyU9mJFBNfsrlyWNQuHXAmQXeDv83/s1600/97E32DCC-35D3-4F67-9918-9532873F17C6.jpeg)
 
 The food carts were really good as people lined up to buy. We tried theEgyptian food cart and the Thai food cart another day.
 
 Roaming around the Whiskey Library was fun as it showed the art of arranging the whiskey and bartender has to constantly bring the ladder to fulfill the dreams of the customer. We stayed at Hilton Embassy Suites.
 
-[
-
 ![Photo](/Travelnew/images/blogspot/blogspot_dee3ac2d4abd7c5e.jpeg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTHl87OC4jzmDd7L49Hl9zr9SmoY5WcUZKyBGZ4cOtIgMQSO3qVwcGWpn3iyIg0sVHQGOYx1FrdrHwZ9-SeA_fmkM0nnx3UdG2Rat4Hw6aiEx-r9_u_mcdimmTPJlFX9Fbxx6E/s1600/33EAE824-377C-45A5-B6BC-A1B024E7FA6B.jpeg)
 
 The most amazing part was the meeting of two women who are originally from Nepal and working in the hotel. As I was taking my breakfast, I feel the vibe of Nepalese language and there we are talking in no-time. what is the chance of meeting any Nepalese in the US? The probability looms at 160,000 /327,375,909 at the very small number.
 
@@ -821,11 +681,7 @@ And yes, - people have beards...Is Portland the bear capital of the country? and
 
 Will definitely love to go to Oregon again in the future, great people, amazing food, great city and the heart of sustainability and yes I miss beautiful trees and rain.
 
-[
-
 ![Photo](/Travelnew/images/blogspot/blogspot_41bd0d8b1bc9dca1.jpeg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQYr8eMvcsYbUqVjPnsfLAKemNcYM0ygl4CBQG-Aqq1LVtbk4romjzra27k2xJqZMsH2b4ppbav5yb29X3K0raAsNZfRAecexjz6No_zBijs_sA_QixzaU_2S-qErOwLhnvaVA/s1600/8F5CFE83-EFA1-47A4-A4BD-F25BB009EF0E.jpeg)
 
 **References:**
 
@@ -877,11 +733,7 @@ The experience of soaring alongside hawks and eagles, with the white peaks of th
 
 It was early morning on March 18, 2017 when David, Mariya and myself decided to hike on Anza Borego Desert, 94 miles north east from San Diego. It has been quite foggy morning for last couple of weeks as the day temperature rises on San Diego . With the rise in temperature in pacific, water evaporates and marine layer explodes across few miles west from pacific coast. It’ s quite an experience like back in Nepal during November to March where it’s foggy and chilly but feel of freshness in the air.
 
-[
-
 ![Photo](/Travelnew/images/blogspot/blogspot_c6dca6d15d2ebb4f.png)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSWSZDKt54_Fjt4Gz3vWMJzYavhe_dq8EYoCDfYpf9rqmlmQpwa2PQXeJhTzQl5gaiDdd2evCgfHD4LwMyNmnSOJqq9k3VfjFIDOllE5vW9_Gk7c7XWEk3YFOoMHslNBK4O-70/s1600/map.png)
 
 **
 **
@@ -895,11 +747,7 @@ Driving through the misty and foggy san diego morning towards the Julian was fun
 
 Anza Borrego Desert State Park (ABDSP) is a state park located within the Colorado Desert of southern California, United States. The park takes its name from 18th century Spanish explorer Juan Bautista de Anza and borrego, the Spanish word for bighorn sheep.[1] With 600,000 acres (240,000 ha) that includes one-fifth of San Diego County, ABDSP is the largest state park in California and, after New York's Adirondack Park, the second largest in the contiguous United States. The park occupies eastern San Diego County and reaches into Imperial and Riverside counties, enveloping two communities: Borrego Springs (home of the park headquarters) and Shelter Valley [source : wikipedia]
 
-[
-
 ![Photo](/Travelnew/images/blogspot/blogspot_4b8b706915875e72.jpg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDT3IpjUkZ7CIkuDPjtK0tM1P0VPSony9auCOEZJXuQq7Vp73RkQ1-uoBBIkXlzjR-RtKGd_s9kJxykhMW_2VldG9sJg1lF7uwcAh-FMpB0GNzF7f9gx9CCoMSiGTfEaAkfmBG/s1600/IMG_4219%255B1%255D.JPG)
 
 **
 **
@@ -909,44 +757,28 @@ I was listening other day on NPR how difficult it was to park and how beautiful 
 **
 **
 
-[
-
 ![Photo](/Travelnew/images/blogspot/blogspot_028f719498c2ae34.jpg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUCMYP7_ZEKS44AGFDEgEX-jSVfoyqC8BKVi4iqxwGJjiTd_N3wGsjIkUXMIqrrKLlElvuPraT0HSLRYk2WMcXQfr0UjNRnwTn0J_w6IIAZSBv998m-kAVITWXqQ5rNBfBICxX/s1600/IMG_4208%255B1%255D.JPG)
 
 Due to the large amount of visitors to Borrego Springs, cellular data may not be available and we realized that our cell phone is literally dead for communication and for maps.The cars were all over the road. The hard work of law enforcement agencies were clearly visible as they try to manage the traffic. Before we started to walk, I drink water and ate a piece of cheese. That was really good cheese, and probably gave me the energy for the rest of the  trail.
 
 **
 **
 
-[
-
 ![Photo](/Travelnew/images/blogspot/blogspot_4de55a2095d5acf2.jpg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6A9UI4aLFBnbCbUi2Qi95FtmZZgEn0PwYyWUkKE9Mbb1IIU_jQTMaseY2YnGJHzMQCkcSnWWJjiEysgSSM7lQQBCW5_aIyC2IWv028S9Epp8ag3C5SMpoPsYyVZDiERSNx0iK/s1600/IMG_4214%255B1%255D.JPG)
 
 **
 **
 
 I saw the lizards for the first time, didn’t saw any rattlesnake. Missed the butterfly. The flowers were everywhere popping out of the different cactus. We met all types of hikers from young to old , from states to international. People were really enjoying the day in the middle of the desert.
 
-[
-
 ![Photo](/Travelnew/images/blogspot/blogspot_6a2fa23c3597262b.jpg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzcO5xgahluzPxMW07zd_B61aqrZElIDQs2kD1EP0pLDGooFyuPnPXxtrJvT5fSS6pJhEntlvaMnBZduZyXL9r5nhHnkN_wH34woddSFm-eH7D8ZyU-xTYPOR4V1tqme1xKatC/s1600/IMG_4203%255B1%255D.JPG)
 
 **
 **
 
 As we climb the mountain - not truly a hill-station though, we saw different types of flowers blooming across the desert.After reaching the peak, we realized that we were hiking on the different trail and  we are not going to see the water fall. But  believe me, it was beautiful and was still in the right part of the Geography. Never mind, it was beautiful and awesome, the only thing we were missing in the desert were birds.
 
-[
-
 ![Photo](/Travelnew/images/blogspot/blogspot_f911598c5d84c5da.jpg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgsoK8b7_CAYYc2AnPE_SSnykNZ4PRb3AqPfRDmAgXcRI6xuIzJ000DfsN4zsNOxlu-7aAx4mkt5KGOU966gacJXbli3BdK6gGTLBs7Da2qUf0QEZqe_LBV09KRSqGfXnaavkO/s1600/IMG_4205%255B1%255D.JPG)
 
 **
 **
@@ -957,11 +789,7 @@ As we climb the mountain - not truly a hill-station though, we saw different typ
 
 **The second spot was slot. We had to drive further down. I had never been to slot but was quite an experience to imagine about flooding in slot when it rains. As we walk in the slot, we saw the layered rocks and soils stacked up in multiple layers, often resemble as an art that have endless boundaries.It makes you feel to go back to the history when the rock started to settle. Oh ya! We really miss Geologist in our team who can explain the GEOG101 to us.**
 
-**[
-
-![Photo](/Travelnew/images/blogspot/blogspot_ae496d699c097f27.jpg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHtTnh2Anz9IAYaJiuaR_DCRFkTCj6UItDM8g9hrW7P58rUrDmf1yTnssMel9Ye77v57CIRY3JikKtoFXzzk2LeUm-Sfvmc3cUVA132HRD1c7Z9s23g8NnK0t51vACvGMudLxZ/s1600/IMG_4223%255B1%255D.JPG)**
+**![Photo](/Travelnew/images/blogspot/blogspot_ae496d699c097f27.jpg)**
 
 **
 **
@@ -982,11 +810,7 @@ Ref:
 **
 **
 
-[
-
-![Photo](/Travelnew/images/blogspot/blogspot_b8f998902a19a761.jpg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDfsoJm2SaVK6NXsxX-IDwNhsZMrp-DCqlrTs_3JbeNUkkcTqM43HyDOSQ5y70C6DDN3woFIlIUdfgLrpj7OBfDCurZeKdWAr4puArCFnGqwLpIReUzoTeZH4bi-DB6Ljmc-_g/s1600/IMG_4215%255B1%255D.JPG)`,
+![Photo](/Travelnew/images/blogspot/blogspot_b8f998902a19a761.jpg)`,
         image: '/Travelnew/images/blogspot/blogspot_c6dca6d15d2ebb4f.png',
         tags: ["Blog"],
         location: ''
@@ -1014,11 +838,7 @@ Hiking in San Diego surrounding is fun. Point Loma is one of the favorite place 
 
 As the beaches expands more than 70 miles in San Diego County, Its always fascinating to go to the beaches - without hassles of parking and crowds.
 
-[
-
 ![Photo](/Travelnew/images/blogspot/blogspot_26446feb487e131d.jpg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKtqR5lv0-NWgPTQ2KOn3MFA7_AZXaopqC_znaEJ2O_8GwyU4h9grAuyCIRQDiLK5Wr1icq_Nc1RcTFU8IgSpEa3S-sRtaVrGSfQ3lOgLzh6rifjuIojDXdKrFZegYj4GTCPuu/s1600/my.jpg)
 
 During the year 2015, I had great opportunity to roam around the city, taste different foods - I would have never thought of , and hike many places. I am blessed to have this wonderful moments . Some of the restaurant I love were Sardina, Sushiya, Mimi and Koreans.
 
@@ -1130,8 +950,7 @@ Louisville, KY!`,
         date: 'January 6, 2013',
         content: `January 5, 2013
 
-[
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKH_RChGfyOzmZAHZM5ACrmTqpY_PFxJ-EkoGBuHUjOSOGgOFow6LQLH6apq1Ld-CP0XFOwBCd3aqXQIS8R5Xq4-u1oMDNdSy5gqyZ_VfbbIc9mLqROBG609tQJ6141vW-c3W_/s1600/DSC03524.JPG)
+
 
 Its been almost three weeks after my
 graduation. Graduating again after ten years!! After applying for more than 150  job applications, I
@@ -1139,11 +958,7 @@ started getting opportunities to have phone interviews. I had more
 than thirty interviews, each of them lasting almost an hour, and more than dozen were in queues. Four of them
 were for on site interviews.
 
-[
-
 ![Photo](/Travelnew/images/blogspot/blogspot_51f503d98390820d.jpg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjkqxr06z69gQxkhyphenhyphenQQ86L3sTeFsIcpz4bZf01iUT2NGsNCpkcetWbDnSFRwfo69Sj59V3ESJjDYd8-UbLwJRzDLwM61xY6gqqdnCABT0A0vlfWCpXC-yWayGCu2ddVUEK3njN/s1600/DSC03530.JPG)
 
 December 15, 2012, Carbondale, SIUC
 
@@ -1155,11 +970,7 @@ decided to move to Lawrence, Kansas, one of
 the best ten college town in nation,. I am excited
 and thrilled to move to start my first job after a long grad school.
 
-[
-
 ![Photo](/Travelnew/images/blogspot/blogspot_37065e3c8865284d.jpg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCHVt4loXUWIwVfvF_m9D6RMcSyvQS-8QUFnwxj709Le6NByN93GxRrvDZuo1VYmgnO47kgd_JXBSAI63R3zU1b7vlGFcF8z02tUtUy901BIssfaXQ0ZwD0JAJD-yv6sy99W_y/s1600/DSC02993.JPG)
 
 way to Kansas, few months earlier...!
 
@@ -1171,11 +982,7 @@ management, I got it in the first shot. I was unemployed for four
 days !! Gosh! It was a holiday that slugged the hiring manager's
 spirit. On numbers, I will be unemployed for 13 days.
 
-[
-
 ![Photo](/Travelnew/images/blogspot/blogspot_c9ca079b670b8720.jpg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsmjvPFIJy4pbzanuusI70VLzXg9PkfL-ZOPyPLqH1BVdg-iZA-SNUEVkUymx_3sFUuf2HWHS7TFT9yEdK3liMOZJLavXLw0HvosjfJDnNkXf2DeEXJHFhL1hYeZcE8uQFzvh_/s1600/DSC03679.JPG)
 
 Evergreen Terrace , after a heavy snow fall!!
 
@@ -1198,11 +1005,7 @@ confidence that I got from the SIU really helped me to mold  my
 personal and professional goals. I salute all of them who were part
 of it and helped me in this transition.
 
-[
-
 ![Photo](/Travelnew/images/blogspot/blogspot_74e204114ed1d211.jpg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFtq6yUwbn4179cTQDZMY84tT6oH268lnVnfXFmxpa2uGn48qIHt4vqRL7Q6g38hvzrFgAUe0mOckvNCoAJHmmgIEpnR9pwXIQFX3UXLXstCiB8MCJBCdGym6QRFdAL3rGm2Kl/s1600/DSC03699.JPG)
 
 My poor bike, Carbondale, IL December, 2012
 
@@ -1225,11 +1028,7 @@ interviews were even more hectic and stressful. Now I am little bit
 stressed with moving,  arranging the logistics, needs to pack off my
 stuffs and move   ahead.
 
-[
-
 ![Photo](/Travelnew/images/blogspot/blogspot_dabf14d09f282d60.jpg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTa1mEw60T-fT-NAsGsKVgUSnSTnlzok-4kbd4VETN0r7XF-n3KyJSPeIo6Ri0PNg1aa9Yo1OGwYwnyVdzMJSsQZPwXPF0LbkPvFHuZp6QWgRGA2C6P9HHxgkaqWpRV9ktzgtl/s1600/DSC03199.JPG)
 
 Yep...I am a Kansas boy now. Lawrence,
 Kansas! Welcome to the America's top 10 college towns. I will be moving there this week. Oh! Ya at last, I went to watch a movie Jack Reacher! yesterday, I remember the words of Tom Cruise. Why the person serve military ?
@@ -1278,11 +1077,7 @@ The changing leaves at the Garden of Gods, the sediment rocks and the 360 degree
 
 General David Patreaus fall down was shocking to me but it was a retrospect of masculine glitch. Nevertheless, the general will always be saluted for his long career in armed force and making the war strategies and doctrines. I still remember when consular officer asked me about whom really I admire? when I was interviewed for US visa in May 2008. Being a military officer, I gave him the solid snapshot of General Patreaus who was commanding the force in Iraq in 2008.
 
-[
-
 ![Photo](/Travelnew/images/blogspot/blogspot_de5e9f0c9aebe0aa.jpg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcn9wpX7eGj99Ym9KNI3eLZpD1wJthuCWmnOdlQjwgUFZkALs1sJD7gM8UVSokxFnP-8x8JYWH8IFTqMm922cdsYMvWKg6xxvs9dGyqcy_d-XwYpe4kCc1akva7y878Vyvhwht/s1600/DSC03508.JPG)
 
 November 2012, Murphysboro, IL - Little Grand Canyon
 
@@ -1297,8 +1092,7 @@ Carbondale got deserted!! Oh I just realize it was Thanks Giving!  Week. Enjoy t
         id: 'the-change-summer-of-2012',
         title: 'The Change.....Summer of 2012',
         date: 'September 1, 2012',
-        content: `[
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5NWw5BlyXgnUK33ChJxBZO68Zhs4yy36JWE1NDxXqF2uG2ljNQUMGkWWJCOUI0bhxWnVzbdiiV-271f1S2dbp70xGBv4q9dFUTFuvYW-al6qE5CKUbTcg-0zNI0bg2I4JgAUy/s1600/DSC02937.JPG)
+        content: `
 
 The
  long summer days were fading further away towards the end but were
@@ -1313,11 +1107,7 @@ bites.The trees looks warm and soft, gentle and calm. The brink of
 physiological change induces the environment in the realm of natural
 perfection with minimum faunas diversities.
 
-[
-
 ![Photo](/Travelnew/images/blogspot/blogspot_07483f73f932b773.jpg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5NWw5BlyXgnUK33ChJxBZO68Zhs4yy36JWE1NDxXqF2uG2ljNQUMGkWWJCOUI0bhxWnVzbdiiV-271f1S2dbp70xGBv4q9dFUTFuvYW-al6qE5CKUbTcg-0zNI0bg2I4JgAUy/s1600/DSC02937.JPG)
 
 Grassy Lake, IL , 2012
 
@@ -1608,11 +1398,7 @@ Holiday to all of you.`,
         id: 'fall-in-carbondale',
         title: 'Fall in Carbondale',
         date: 'October 10, 2011',
-        content: `[
-
-![Photo](/Travelnew/images/blogspot/blogspot_54367690e344e8b5.jpg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSvhCgWchIHxsHCK3Qf0VAMqmUQNp3B8ehyphenhyphenI39s8qKdU8y_UjfcmuLYJ2-lb3tsD4cZB3T7zM2HwWOUnb393ci6llObBmkBEwYbRUgGDsleTFzPSFJ_jNJk-PTJ8V6fhq6Gf7C/s1600/DSC01019.JPG)
+        content: `![Photo](/Travelnew/images/blogspot/blogspot_54367690e344e8b5.jpg)
 
 The Garden of Rocks, IL is a colossal pinnacle of rock that tranquilizes the thought far beyond the horizon. As we watched the Shawnee National Forest, we can feel ourselves in the foothill of Himalayas in front of us, mesmerizing the wonderful high cliffs and rocks with aesthetic beauty of the nature. The multi-color of leaves with the leaves falling apart and the changes in the weather symbolizes the analogy of life cycle of all the living things in this beautiful nature. We realized that the first fall in America has already started to emancipate vividly in our gray matter and it would be resided forever in the spatio-temporal facet. As we climb the rock and see the spectacular colorful forest, we were struggling hard to capture the images, inherently trying to be more natural than we are, thanks to the development in digital photography that helped to portray it endlessly and seamlessly in our electronic memory sticks. We were tired of capturing those endless images and we were being inherently insatiable and demanding to feel the nature.
 
@@ -1645,11 +1431,7 @@ The change of the leaf is clear notion of the change that is inevitable, that we
         id: 'the-summer-of-2011',
         title: 'The Summer of 2011',
         date: 'August 27, 2011',
-        content: `[
-
-![Photo](/Travelnew/images/blogspot/blogspot_46d255b8efc22ecb.jpg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3uJ7LsqrouM210B9M8YRdEjfmVqZd8Mu64loykoS2uwbYP-3WgEBv1RqeN0xX38ovX_yXkLsy2Q4h4fri7H6-o8zr_DL1Hd_1yB5I0Sb6jF5r3SVJJPZZudLa7npzbu534a5B/s1600/DSC00315.JPG)
+        content: `![Photo](/Travelnew/images/blogspot/blogspot_46d255b8efc22ecb.jpg)
 
 As  the sun gets more hotter and the days become muggy and humid, the life  in carbondale conspicuously irks in the mid-day of August. However,  the greenish environment and the schools dynamics with new students keeps the city  cunningly vibrant and beautiful, leaving back the spatio-temporal  memories of climate in the horizon.
 
@@ -1786,11 +1568,7 @@ Eating habit has been changed completely and I am wondering how it’s going to 
         id: 'transition-i',
         title: 'Transition I',
         date: 'January 3, 2011',
-        content: `[
-
-![Photo](/Travelnew/images/blogspot/blogspot_586ffe95237b293d.jpg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2-LGlxxmPR95wj4TWaBztAc0_kKEwBlI3MtvpaiM9TqzN97P9rc2OWDEWNfSt3CwNozKXM1RTyAyLm8I8rjFc2qsXS16yfYqJXRmKSNdaSH7T1mnGaQSEMYg_6UGvgJM42RbF/s1600/Picture+022.jpg)
+        content: `![Photo](/Travelnew/images/blogspot/blogspot_586ffe95237b293d.jpg)
 
 **The Transition I**
 
@@ -1813,11 +1591,7 @@ Happy new year to all of you..`,
         id: 'transition',
         title: 'TRANSITION',
         date: 'November 16, 2010',
-        content: `[
-
-![Photo](/Travelnew/images/blogspot/blogspot_a1b466ab9b31e0f3.gif)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNPcOyv6C-VsapocVm7WWRHUW5lGId7co2790v6ft5cDuu1efs-a9A_vAjbuBiCxKR2U1zk6l3QJSpjqmVWns2Mn9827dY9EUV-aO-QFHkV347wQo0DUOg6-bbz-x72B2wSCoXYA/s1600/myeye.gif)
+        content: `![Photo](/Travelnew/images/blogspot/blogspot_a1b466ab9b31e0f3.gif)
 
 After working for 3028 days in Nepalese Army, I am getting honorable discharge from the Military. It was my choice. I started the career in military at the time when the insurgency was at climax. I still remember the General lauding us during our appointment procession for showing devotion in Nepalese Army. At that time, it was Royal Nepalese Army. Now, it’s Nepalese Army, the tectonic shift in national politics. Presently the country is in transition and so am I.
 
@@ -1944,11 +1718,7 @@ After spending my holiday for a week and trying to adapt myself again to the old
         id: 'under-shadow-of-a-green-tree',
         title: 'Under Shadow Of a Green Tree',
         date: 'June 29, 2007',
-        content: `[
-
-![Photo](/Travelnew/images/blogspot/blogspot_33abba1f6c92cbcd.jpg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirMZVAGFwzrDSTVHXThsg5bLndQeHkb765agbiayjaJFvlYxyYLuBcpFE5sXZM1I5JoVP3qkCB9J-PV1ktsjnnXm4tqQw3O2FVHxL_jla37Vpw0vSbXc5136TKdZVfIVehn-8E/s1600-h/undergreentree.jpg)
+        content: `![Photo](/Travelnew/images/blogspot/blogspot_33abba1f6c92cbcd.jpg)
 
 Most of the days were very dry and humid. The mercury goes above what we have anticipated and the shadow of green trees that were abundant around the periphery has been our humble friend for a long time. The days were very muggy and sun seems stronger than ever. As I looked from the window of the terrace of my class-room, every thing seems lousy and looks tired of the long and hot days.
 
@@ -1977,11 +1747,7 @@ The last week of the month was better as we feel relieved when there was a fring
         id: 'civilization-and-superiority',
         title: 'Civilization and Superiority',
         date: 'May 31, 2007',
-        content: `[
-
-![Photo](/Travelnew/images/blogspot/blogspot_dc98cc7f7b5e9a3e.jpg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnIoSuOmWMNlGxLAW9dWb5OfCZAEhdQ9-JU5e2wky_ti1gUB6FpfYwHTDVS0JMvhHOnOfyX-oI6r8HX0jaR12rTPet9mA_1QlWEikv1cNi8TJwK0D0YZhuddtCfs_6LPjW93VT/s1600-h/c9.jpg)
+        content: `![Photo](/Travelnew/images/blogspot/blogspot_dc98cc7f7b5e9a3e.jpg)
 
 **Prologue**
 
@@ -2076,11 +1842,7 @@ I finished the book Hemingway’s 49 short stories and started the new Chinese l
         id: 'placidly-quiescent',
         title: 'Placidly Quiescent',
         date: 'April 30, 2007',
-        content: `[
-
-![Photo](/Travelnew/images/blogspot/blogspot_f646248ee8cf95c4.jpg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-HOOVGsK296jWBIm72UPNFZae-kRZg1dOIlSPySkalZuvQFxnJX058OJR4vDmLAEiIMTIo9SUbvzae9uiQH96RK4VtX7cKDkwm157kpsM2Gn6Hr2nf2XTP9Q4lp58_rZGX_JZ/s1600-h/PICT0006.JPG)
+        content: `![Photo](/Travelnew/images/blogspot/blogspot_f646248ee8cf95c4.jpg)
 
 When I focus my eye-lens to far edge of the hill-stations, the changes were already been able to moisturize my gray matter. The lovely-hills surrounding us have already been painted by a fresh green layer of virgin leaves. As I focus my eyes near to the surrounding there were no differences either, the skeleton-trees look vividly verve with his new virgin leaves glistening and shining when the morning sun reflects through it every day. There were beautiful flowers everywhere, birds were chirping everywhere with many of them busy feeding their offspring’s. The grounds along with meadow were completely green no matter students were busy playing football everyday. The environment and surroundings were melancholy and dormant as the days become hot and long. The environmental and climatic changes were already there and we were simply waiting for it to happen gently and placidly. The weather has already started to become warmer and the Chinese students have already changed their old but warm uniform with the light ones that looks them smarter like a business professionals. The environment looks lucid, beautiful and clean. Many trees, shrubs and herbs along with birds were showing the rapid changes. The days are hotter as we have already started to wear light shirts but again the climate of the Nanjing sucks sometimes as it’s not predictable no matter I always manage to see the five days weather forecast of BBC.
 
@@ -2115,11 +1877,7 @@ Reminiscently the month was placidly quiescent with subtle change and was succes
         id: 'the-turning-point',
         title: 'The Turning Point...!',
         date: 'March 31, 2007',
-        content: `[
-
-![Photo](/Travelnew/images/blogspot/blogspot_9a76ddb9a1ecfe48.jpg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcryBOv5CnGetcx60INqnDiKQfx471tspcRNCFQ5qrAOnmkXc0GlMk0IkTryE7Yf66WSoPX-dFXzANhnUYdty-gCpiIdJObsCZM5OpSyktfhyEr_5DJ3-qq5pqq-tidvX1mLDo/s1600-h/PICT0039.JPG)
+        content: `![Photo](/Travelnew/images/blogspot/blogspot_9a76ddb9a1ecfe48.jpg)
 
 It was the cold and windy but beautiful evening at Hunan Lu, the food-street of Nanjing. We were roaming around the artificial flowers that were decorated alongside the whole street with our Chinese friends in the last week of spring festival that was wrapping off very soon for a year. We were invited by Li and Lu for the Chinese food on this beautiful evening. It was astonishing moment as the climatic environment were subtle and euphoric as the sun was already down and we could feel cool and soft wind blowing through our ears. The delicious Chinese foods were waiting for us as we marched towards one of the Chinese restaurants where hundreds of peoples were enjoying their food in the beautiful evening. As we were used to with these Chinese foods, our friends were amazed and were staring us as we were using the chopsticks comfortably. The food constitutes few new items that we had never eaten before.  As girls were busy cooking food in the master pan that was embedded in the center of table with electric heater and were asking awkwardly and repetitively about food and our choice, however we were nodding happily with pleasant environment rather than eating. We were enjoying the moment in full spheres with fun and lust of excitement. As we were wrapping off our dinner and our friends were dubious about our appetite when we ate too little as compared to what they have anticipated. Nevertheless, it was wonderful hospitality and courtesy. As we were planning to leave, we experience short shower that was predicting that autumn is coming and which was obvious after cold and heart-throbbing winter. Later we enjoyed biting “caomei”- the strawberry and walked in a light frenzy shower with whirlwind that was blowing in the beautiful evening at Hunan Lu.
 
@@ -2154,11 +1912,7 @@ We went to the Fujiamiao, another city of Nanjing. As we were not sure where we 
         id: 'faded-hope-and-silver-lining',
         title: 'FADED HOPE AND SILVER LINING',
         date: 'February 28, 2007',
-        content: `[
-
-![Photo](/Travelnew/images/blogspot/blogspot_82ba6a3723444fd4.jpg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAbjE-IYKOpwLyMCQFoQ0O6nn2cQWdOoB4ePWNQiRhI_fW_kbnKKXWcYyco_4UJTsjZDD7CW1lI6WW5AJmJXgTzIgPsoRpUp5rhW7cqcqZ_HZCbN9j8UVqdlfOJZj50RGLHjvS/s1600-h/chaptersix.jpg) **T**he hopes were shattered inside the womb. Finally, a long month holiday was in the door-step. This long holiday gave me glimpses of schooling days and University life, the perennial beauty of those golden days that would be in tributaries immortally.
+        content: `![Photo](/Travelnew/images/blogspot/blogspot_82ba6a3723444fd4.jpg) **T**he hopes were shattered inside the womb. Finally, a long month holiday was in the door-step. This long holiday gave me glimpses of schooling days and University life, the perennial beauty of those golden days that would be in tributaries immortally.
 
 I finished the book of Secular Humanism by Dr. Kurtz as I was eagerly waiting it with pertinent lust and desire. Certainly, it gave me a lot of pleasure and helped me to vindicate my principles and attitude of secular life. This book is the best book I have ever read in my life depicting the life and different societies in completely different dimensions.
 
@@ -2241,11 +1995,7 @@ Peoples quelling the thirst of their feelings in different ways some are laughin
 
 The month was also interesting as we started to use the public vehicles effectively more than ever. We enjoyed traveling through bus and we started to realize that it’s very easy although it’s late and sometimes it’s crowded. But again I realize it has different blends of experience and we need to experience it to know more about this place and a country. Traveling in double-decker was again another fabulous experience that resided inside my gray matter from the time I was a kid.
 
-Finally, the half-year in Nanjing is finished and the holiday is going to end soon. I know I would never have free time like this in my life. The countdown has already been started as faded hope fades forever and silver lining gives more gleaming hopes in the Chinese New Year. [
-
-![Photo](/Travelnew/images/blogspot/blogspot_56cd720de87d501f.jpg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVTR6N32NeUDs15MvaBGV4PQVQuCwK9ngT_xjEYTonCltdzAhnJcKYDJfP660cComTk7U39NRgMhQz039-_UaxQz4bvMaTrUjoQwjBjnegBRgwoRPPBkbVnhtpVcgVZjclAp1y/s1600-h/chinese.jpg)Xin Nian Kuai Le…`,
+Finally, the half-year in Nanjing is finished and the holiday is going to end soon. I know I would never have free time like this in my life. The countdown has already been started as faded hope fades forever and silver lining gives more gleaming hopes in the Chinese New Year. ![Photo](/Travelnew/images/blogspot/blogspot_56cd720de87d501f.jpg)Xin Nian Kuai Le…`,
         image: '/Travelnew/images/blogspot/blogspot_82ba6a3723444fd4.jpg',
         tags: ["Blog"],
         location: ''
@@ -2254,11 +2004,7 @@ Finally, the half-year in Nanjing is finished and the holiday is going to end so
         id: 'numerical-illusion',
         title: 'Numerical Illusion',
         date: 'January 30, 2007',
-        content: `[
-
-![Photo](/Travelnew/images/blogspot/blogspot_ebe836249c5c2faf.gif)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJwEhpb24XN-JIVRBMAdbFM2l2Hby6DvujGekeX5OJO4TztFeDTcocrP9t-sLGeqz90WSQbgPIkAS2zJTrFaJ-MiJvRZUJLGOXe_fHPqGZ4hFTRqhMVRtXC6f6tNe88KOt55iM/s1600-h/IL2.gif)
+        content: `![Photo](/Travelnew/images/blogspot/blogspot_ebe836249c5c2faf.gif)
 
 The parties to ring out 2006 have been over for almost a month and the confetti has already been cleaned away. Now it's time to look ahead to the New Year with new hopes of aspiration and school of thoughts. However, for many of us it would be nothing more than psychological illusion of numbers in our grey matter. The aspirations and hopes are simply a complex function of psychological and physical needs. The results are obvious; it may bring new invention or catastrophic war or absurd static environment. Nevertheless it creates waves of turbulence psychologically and thus drives the human for endeavor.
 
@@ -2291,11 +2037,7 @@ Finally, I am wondering about my long month holiday and spring festival. Don’t
         id: 'food-epiphany-and-eating-etiquette',
         title: 'Food Epiphany and Eating Etiquette',
         date: 'December 31, 2006',
-        content: `[
-
-![Photo](/Travelnew/images/blogspot/blogspot_41d8eaeb76fed7bd.jpg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVhWumLbg7lpxOf6quHypbSPriZQkn_DQKZ_YnXR1HE_vTkKxOdmI9lXHSUkdTF7LwciSgwXA4wu3ivHT6urBU1k1NPaWFyU2ROhkcHJGqFw0hQQWUK8F4e6Dwhzpsj0Wpn3L2/s1600-h/food+copy.jpg) Food Epiphany and Eating Etiquette
+        content: `![Photo](/Travelnew/images/blogspot/blogspot_41d8eaeb76fed7bd.jpg) Food Epiphany and Eating Etiquette
 
                                                                 23:45 ,December 31 ,2006
 
@@ -2373,11 +2115,7 @@ Adieu 2006: Time 12:45: Nanjing, China`,
         id: 'life-is-series-of-unpredicted-journeys',
         title: 'Life is Series of Unpredicted Journeys',
         date: 'December 7, 2006',
-        content: `[
-
-![Photo](/Travelnew/images/blogspot/blogspot_c4876e34612d5b7b.jpg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYtn6FqQxducPhGK3bmuXIhvDJe6Lnfp2hEZmWXeg_BiLyshECIJ3zHJMvMfcvnt723ZdevhOw9Aplan79hGL6IKwtrA2dYBTAaxNeXIaUnTZuo3v3davxVXeylisZy1yiAIEm/s1600-h/Hukou.jpg)
+        content: `![Photo](/Travelnew/images/blogspot/blogspot_c4876e34612d5b7b.jpg)
 
 Life is Series of Unpredicted Journeys
 
@@ -2632,13 +2370,9 @@ At last I am feeling too cold. I am sure it’s too long. I should go to my bed.
         id: 'moving-to-square-one',
         title: 'Moving to Square One',
         date: 'November 6, 2006',
-        content: `[
+        content: `![Photo](/Travelnew/images/blogspot/blogspot_3d82e5c61ade55a2.jpg)
 
-![Photo](/Travelnew/images/blogspot/blogspot_3d82e5c61ade55a2.jpg)
 
-](http://photos1.blogger.com/x/blogger2/3583/4344/1600/760603/terracotta.jpg)
-
-[](http://photos1.blogger.com/x/blogger2/3583/4344/1600/482072/terracotta.jpg)
 
 **Moving to Square One**
 
@@ -2776,7 +2510,7 @@ Finally October was saying goodbye and November was in the door-way. My fingers 
         title: 'Life in Nanjing, China for a Month',
         date: 'October 06, 2006',
         content: `It was a beautiful evening in the month of June 2006, when I was nominated for a 10-month professional computing course in China. This experience opened my eyes to a vibrant culture and a rapidly advancing technological landscape, marking the beginning of many international adventures.`,
-        image: 'https://photos1.blogger.com/blogger/4585/3941/200/IMGP0124.jpg',
+        image: '/Travelnew/images/blogspot/placeholder.svg',
         tags: ['Travel', 'China', 'Culture'],
         location: 'Nanjing, China'
     }
