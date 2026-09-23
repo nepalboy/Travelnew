@@ -19,6 +19,55 @@ export interface Post {
 
 export const posts: Post[] = [
 {
+  id: 'north-south-fortuna-mission-trails',
+  title: "Exploring South and North Fortuna: Jewels of Mission Trails",
+  date: 'Sep 20, 2026',
+  content: `
+### Sunday in the Hills
+
+The morning after Torrey Pines, we traded the ocean for the hills. Mission Trails Regional Park sits right in the middle of San Diego, and Sunday's mission was its two Fortuna peaks — South Fortuna at 1,094 feet and North Fortuna at 1,291 feet, two of the park's five signature summits.
+
+We started from the Mission Trails Regional Park Visitor Center and headed for South Fortuna first. And let me tell you — the stairs on South Fortuna are no joke. The trail climbs in steep, relentless steps, and your legs know about it long before you reach the top. But that is also what makes the summit feel earned.
+
+![The view from the Fortuna ridge](/Travelnew/images/fortuna/fortuna-02.jpg)
+
+One thing that stood out along the way: the creek was bone dry. The creek bed was completely empty — the second time I've hiked here and found it without a drop of water in it.
+
+### Twin Peaks, One Saddle
+
+What makes the Fortunas special is that they are twins. The two rounded summits rise side by side, joined by a saddle ridge you can walk between. From the top of South Fortuna, North Fortuna looks close enough to touch — so we kept going.
+
+![Chaparral and valley views from the ridge](/Travelnew/images/fortuna/fortuna-04.jpg)
+
+### The Second Half: Heat and North Fortuna
+
+By the time we crossed the saddle toward North Fortuna, the day had turned properly hot. The morning's cloud cover burned off, the sun came out in full, and the climb up North Fortuna's slopes felt twice as steep as it was. Water breaks, a slow pace, and the promise of the summit view kept us moving.
+
+North Fortuna is the taller of the two at 1,291 feet, and its summit delivers one of the best panoramic viewpoints in the park — downtown San Diego on one side, the ocean haze on the other, and the whole sweep of Mission Trails below. We lined up at the summit marker for the obligatory group photo.
+
+![Our crew at the North Fortuna summit marker](/Travelnew/images/fortuna/fortuna-06.jpg)
+
+### The Numbers
+
+The tracker told the story: 8.07 miles, 1,916 feet of elevation gain, and 3 hours 22 minutes of moving time. Not bad for a Sunday.
+
+![Hike stats: 8.07 miles, 1,916 ft of elevation gain](/Travelnew/images/fortuna/fortuna-05.jpg)
+
+### Why the Fortunas Are the Park's Jewels
+
+Cowles Mountain gets the crowds, but the Fortunas are the quieter prize. Fewer people, just as good views, and the satisfaction of bagging two summits in one outing. If you are working through the park's five-peak challenge, these two belong on the same day.
+
+Tips from a hot Sunday: start early, bring more water than you think you need — there is no shade once you leave the visitor center — and save some respect for those South Fortuna stairs.
+`,
+  image: '/Travelnew/images/fortuna/fortuna-cover.jpg',
+  tags: ["Mission Trails", "Hiking", "San Diego", "Fortuna"],
+  location: "Mission Trails Regional Park, San Diego, California",
+  gallery: [
+    { url: "/Travelnew/images/fortuna/fortuna-cover.jpg", type: "image", location: "Mission Trails", caption: "Summit view over Mission Trails Regional Park" },
+    { url: "/Travelnew/images/fortuna/fortuna-02.jpg", type: "image", location: "Mission Trails", caption: "The Fortuna ridge and valley from the trail" },
+  ],
+},
+{
   id: 'torrey-pines-scenic-hike',
   title: "The Most Beautiful Scenic Hike of San Diego: Torrey Pines",
   date: 'Sep 19, 2026',
