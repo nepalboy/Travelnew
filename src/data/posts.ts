@@ -19,6 +19,51 @@ export interface Post {
 
 export const posts: Post[] = [
 {
+  id: 'torrey-pines-scenic-hike',
+  title: "The Most Beautiful Scenic Hike of San Diego: Torrey Pines",
+  date: 'Sep 19, 2026',
+  content: `
+### Saturday at the Reserve
+
+We spent Saturday at Torrey Pines State Natural Reserve, and it could not have been a prettier day — clear blue sky, an ocean breeze, and perfect hiking weather. Ryan came along in his Pulisic number 10 jersey, ready for the trails.
+
+### First Trail: The Overlook on Top
+
+We started with the trail on top, at the overlook above the beach. The whole coastline was spread out below us — waves rolling into Torrey Pines State Beach, Highway 101 curving along the shore, and Los Penasquitos Lagoon stretching inland. Ryan stood at the railing taking it all in, and I did not blame him.
+
+![Ryan at the Torrey Pines overlook](/Travelnew/images/torrey-pines/torrey-cover.jpg)
+
+The Torrey pine itself is worth the trip. It is the rarest pine tree in North America, and it grows naturally in only two places on earth — right here, and on Santa Rosa Island off the coast. The windswept trees clinging to the sandstone cliffs give this place a look you will not find anywhere else.
+
+### Second Trail: The Loop Down to the Beach
+
+Then we took the circular loop trail. It was a crowded day — plenty of hikers on the path — and the loop took us from the top all the way down to the beach. Every turn opened up another postcard view of the ocean. The cliffs were something to see up close: bands of layered sandstone rock, and seabirds nesting in the hollows with guano streaking the stone below their perches.
+
+### The Beach Walk Back
+
+Finally we reached the beach and just walked it, beach by beach, all the way along the sand to the parking lot. The water was full of people boogie boarding and surfing, with gulls wheeling overhead. We passed the South Beach entrance and kept going along the shoreline until we reached the car. And after a hike like that, there is nothing better than sitting down and drinking ice-cold water — the perfect way to wrap up the day.
+
+![Sunset over the Pacific](/Travelnew/images/torrey-pines/torrey-08.jpg)
+
+### A Note for Future Hikers
+
+We got lucky with our timing. The reserve's trails and upper lots closed on September 22 for a utility project and will stay closed through February 2027, so this may be the last Torrey Pines hike anyone gets for a while. If you are planning a visit after the closure, check the park's website first — the views will be waiting when the trails reopen.
+`,
+  image: '/Travelnew/images/torrey-pines/torrey-cover.jpg',
+  tags: ["Torrey Pines", "Hiking", "San Diego", "Family"],
+  location: "Torrey Pines State Natural Reserve, San Diego, California",
+  gallery: [
+    { url: "/Travelnew/images/torrey-pines/torrey-cover.jpg", type: "image", location: "Torrey Pines", caption: "Ryan taking in the view at the overlook" },
+    { url: "/Travelnew/images/torrey-pines/torrey-02.jpg", type: "image", location: "Torrey Pines", caption: "The beach, Highway 101, and Los Penasquitos Lagoon from above" },
+    { url: "/Travelnew/images/torrey-pines/torrey-03.jpg", type: "image", location: "Torrey Pines", caption: "Hikers on the bluff trail" },
+    { url: "/Travelnew/images/torrey-pines/torrey-04.jpg", type: "image", location: "Torrey Pines", caption: "At the South Beach trailhead" },
+    { url: "/Travelnew/images/torrey-pines/torrey-05.jpg", type: "image", location: "Torrey Pines", caption: "Wildflowers blooming by the lagoon" },
+    { url: "/Travelnew/images/torrey-pines/torrey-06.jpg", type: "image", location: "Torrey Pines", caption: "Afternoon sun over the Pacific" },
+    { url: "/Travelnew/images/torrey-pines/torrey-07.jpg", type: "image", location: "Torrey Pines", caption: "The sandy trail along the coast" },
+    { url: "/Travelnew/images/torrey-pines/torrey-08.jpg", type: "image", location: "Torrey Pines", caption: "Sunset on the beach" },
+  ],
+},
+{
   id: 'knotts-berry-farm-ryan-ella',
   title: "Knott's Berry Farm with Ryan and Ella.",
   date: 'Aug 22, 2026',
