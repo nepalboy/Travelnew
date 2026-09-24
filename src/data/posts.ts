@@ -428,6 +428,10 @@ Today marks the beginning of our adventure...`,
 It was full of excitement and a euphoria. Although, born and raised in Nepal, with the country of majestic Himalayas including Mt. Everest, I have never been to
 the northern part of the country where mountain rules the human’s imagination, where passion meets the euphoria and nature shows the complexities, human has never imagined. Himalayas were calling me far from away this time and I was ready for the caravan.
 
+![Everest Base Camp trek route map](/Travelnew/images/everest/everest-base-camp-map.png)
+
+*Map source: LinkedIn*
+
 April 01, 2023. We started the trip. It was long flight to
 Kathmandu – The capital of Nepal. It was more than 25 hours flight with couple
 of hours starting from San Diego to transit in New York City and Doha. Doha’s airport was amazing with
