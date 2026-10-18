@@ -25,7 +25,7 @@ export const posts: Post[] = [
   content: `
 ### Up Before the Crowds — Almost
 
-Sunday morning, Cowles Mountain. We rolled into the trailhead parking lot at 7 AM — and it was already full. That is Cowles for you: the most popular hike in San Diego County, and on a clear October morning, half the city had the same idea. Looking up the switchbacks, the early birds were already specks near the top, well on their way to the summit.
+Sunday morning, Cowles Mountain. We rolled into the trailhead parking lot at around 8 AM — and it was already full. That is Cowles for you: the most popular hike in San Diego County, and on a clear October morning, half the city had the same idea. Looking up the switchbacks, the early birds were already specks near the top, well on their way to the summit.
 
 ### The Climb
 
@@ -57,7 +57,7 @@ Four different personalities, one shared trail. We never settled which one is "b
 
 ### Tips for the Next Hiker
 
-Go early — the lot fills by 7 on weekends, and after that you are parking along Golfcrest Drive. Bring more water than you think you need; there is no shade and no water on the trail. And give yourself time at the top: on a clear day, the 360-degree view from the highest point in San Diego is the whole point of the climb.
+Go early — the lot was already full by 8 on a Sunday morning, and after that you are parking along Golfcrest Drive. Bring more water than you think you need; there is no shade and no water on the trail. And give yourself time at the top: on a clear day, the 360-degree view from the highest point in San Diego is the whole point of the climb.
 `,
   image: '/Travelnew/images/cowles/cowles-01.jpg',
   tags: ["Cowles Mountain", "Hiking", "San Diego", "Mission Trails"],
