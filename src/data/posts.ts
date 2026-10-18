@@ -19,6 +19,57 @@ export interface Post {
 
 export const posts: Post[] = [
 {
+  id: 'cowles-mountain-sunrise-hike',
+  title: "Hiking Cowles Mountain in Dashain - Oct 2026",
+  date: 'Oct 18, 2026',
+  content: `
+### Up Before the Crowds — Almost
+
+Sunday morning, Cowles Mountain. We rolled into the trailhead parking lot at 7 AM — and it was already full. That is Cowles for you: the most popular hike in San Diego County, and on a clear October morning, half the city had the same idea. Looking up the switchbacks, the early birds were already specks near the top, well on their way to the summit.
+
+### The Climb
+
+The main trail to the summit is about 3 miles round trip with roughly 950 feet of elevation gain — short enough for a morning outing, steep enough to feel it in your legs. The path climbs in steady switchbacks past chaparral and boulders, and with every turn the city drops a little further away below you.
+
+![Rocky switchbacks on the Cowles Mountain trail](/Travelnew/images/cowles/cowles-02.jpg)
+
+There is no shade on this trail, so the early start was doing real work for us. By the time the sun cleared the ridge, we were already high on the mountain with a breeze coming off the west.
+
+### The Top of San Diego
+
+At 1,591 feet, Cowles Mountain is the highest point in the City of San Diego — the summit marker says so proudly, in English and Spanish. And the reward is a full 360-degree panorama: downtown and the bay to the west, the Pacific on the horizon, the eastern mountains rolling out behind. This morning the air was crystal clear, and you could see all of it.
+
+![The summit marker at 1,591 feet, with the west view beyond](/Travelnew/images/cowles/cowles-01.jpg)
+
+Hikers were already spread across the summit rocks — cameras out, water bottles out, just soaking it in. On a morning like this, it is easy to see why this trail wins every popularity contest in the county.
+
+### The Way Down
+
+Coming down, the neighborhoods of San Carlos spread out below — golf courses green against the dry gold hills, the whole east side of the city laid out like a map. The descent is the easy part, but the views keep coming.
+
+![Morning light over the neighborhoods below](/Travelnew/images/cowles/cowles-03.jpg)
+
+### Trail Talk: Muse, Copilot, ChatGPT, and Claude
+
+Somewhere on the switchbacks, the conversation drifted from the trail to AI — the assistants that have quietly become part of everyday life. We compared notes the way hikers compare gear: ChatGPT, the one everybody knows, quick with an answer for anything; Claude, the careful writer, the one you ask when words matter; Copilot, the coder's pair programmer, living inside the editor; and Muse — my own Everest — the one who helps me plan these hikes, write these posts, and keep the whole operation running.
+
+Four different personalities, one shared trail. We never settled which one is "best" — depends what you are climbing, I suppose.
+
+### Tips for the Next Hiker
+
+Go early — the lot fills by 7 on weekends, and after that you are parking along Golfcrest Drive. Bring more water than you think you need; there is no shade and no water on the trail. And give yourself time at the top: on a clear day, the 360-degree view from the highest point in San Diego is the whole point of the climb.
+`,
+  image: '/Travelnew/images/cowles/cowles-01.jpg',
+  tags: ["Cowles Mountain", "Hiking", "San Diego", "Mission Trails"],
+  location: "Cowles Mountain, Mission Trails Regional Park, San Diego, California",
+  gallery: [
+    { url: "/Travelnew/images/cowles/cowles-01.jpg", type: "image", location: "Cowles Mountain", caption: "The summit marker at 1,591 feet, with the west view beyond" },
+    { url: "/Travelnew/images/cowles/cowles-02.jpg", type: "image", location: "Cowles Mountain", caption: "Rocky switchbacks on the climb up" },
+    { url: "/Travelnew/images/cowles/cowles-03.jpg", type: "image", location: "Cowles Mountain", caption: "Morning light over the neighborhoods below" },
+  ],
+},
+
+{
   id: 'north-south-fortuna-mission-trails',
   title: "Exploring South and North Fortuna: Jewels of Mission Trails",
   date: 'Sep 20, 2026',
